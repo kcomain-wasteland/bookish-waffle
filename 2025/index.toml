@@ -121,11 +121,6 @@ hash = "364747a29d538ceca8471b4cd4460b4875ce6e49ef4ed9ae6b768ddb54af2aff"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "151cabb0a7c5de84668f6828470360370bc5182f8b54bb2cd1ef9f7c4dd788e0"
-metafile = true
-
-[[files]]
 file = "mods/ping-view.pw.toml"
 hash = "4849b100ea4b7087a2bb34f5457e26600ee1c8f9274304c5437a3739bdcdf261"
 metafile = true
