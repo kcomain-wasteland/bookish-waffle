@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.21.8-8.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/YspdaqOd/collective-1.21.8-8.5.jar"
+hash-format = "sha512"
+hash = "cd2df7a9e46fecdac4673212e34a4086318047887397539121cfd47405660f48143d7850679234d90a4f5c10be0c13e5a2dd01ca0c246251f02851215bcd8635"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "YspdaqOd"

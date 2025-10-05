@@ -1,0 +1,13 @@
+name = "Open Parties and Claims"
+filename = "open-parties-and-claims-fabric-1.21.8-0.25.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/ObSIhQn1/open-parties-and-claims-fabric-1.21.8-0.25.4.jar"
+hash-format = "sha512"
+hash = "fec24b9df29871d70dcab4c2babe72b6e7597aedc7249a3db9853f7ddde333e13056e5d25b65f321c61cec048d2f32dad60b5ffa8e8053275014f1ba8cd6bff3"
+
+[update]
+[update.modrinth]
+mod-id = "gF3BGWvG"
+version = "ObSIhQn1"

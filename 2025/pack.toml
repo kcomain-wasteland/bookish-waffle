@@ -1,0 +1,13 @@
+name = "soopy-mc2025"
+author = "soopyc <minecraft@soopy.moe>"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7d821cf1aa35adb3d182edc5d2496532cca74ec73606dea4f36f8d0270340dc0"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"
