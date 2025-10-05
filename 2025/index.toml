@@ -16,6 +16,11 @@ hash = "950139b43bd4634848c39bbe340b2b69a096ddf856080e75cd4ef96899d04a71"
 metafile = true
 
 [[files]]
+file = "mods/bmm.pw.toml"
+hash = "77fc63fddb2502aaea280fd245db8d11cb09a03c34d78084985ea35b2793ef45"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "bfa3ef713975bd287cdddd1afb713ed0f16326427cf2d78af4030f8b21b95be3"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "c41c5c8356698d08f27e80d23a600dd462f1ea1c63e02e78f5002b26c24093a4"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "b6ba776ac3c7644be3337fea15db5c844a73b66d0436d64130da2e36163cdf4f"
 metafile = true
 
 [[files]]
