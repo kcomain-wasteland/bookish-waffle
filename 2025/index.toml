@@ -6,8 +6,18 @@ hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
+metafile = true
+
+[[files]]
 file = "mods/better-fabric-console.pw.toml"
 hash = "eec76fa643099e909226e01e445a371efd01b4db6621da3b71247b75fa3d8551"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "bdbe4914b751f7afd129eb94a133cf7223663c0cc0c5a8e273ce4b3867d61777"
 metafile = true
 
 [[files]]
@@ -146,6 +156,11 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "c30abb741af8bcf3b29d000736aa2ae1730f0c551c17266e15b3c5c2183d0354"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "c41c5c8356698d08f27e80d23a600dd462f1ea1c63e02e78f5002b26c24093a4"
 metafile = true
@@ -153,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/silk.pw.toml"
 hash = "b6ba776ac3c7644be3337fea15db5c844a73b66d0436d64130da2e36163cdf4f"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
@@ -181,6 +201,11 @@ hash = "3a3eac5ffe0a6299390ee43c0dcefacf1884164949ccbf32d9e862e4de4beecb"
 metafile = true
 
 [[files]]
+file = "mods/whitelisted.pw.toml"
+hash = "44acfcc16d236dab1a7c346f7044baea33bac0c816eb58118b8a57152becb1f2"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "d67badb4e995bc340548af8cb784af656bf9ec4b56778056747b207fe521f4ae"
 metafile = true
@@ -189,6 +214,174 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "fe9449da746886203535377f2369a2f413f1548b9015df0899e89edd250f2a10"
 metafile = true
+
+[[files]]
+file = "resources/datapack/anti creeper grief v1.1.14 (MC 1.21-1.21.9).zip"
+hash = "decb36119e2c9b5e417efe8cd72d1405a0e35117779744aaa33634614a592512"
+
+[[files]]
+file = "resources/datapack/anti enderman grief v1.1.14 (MC 1.21-1.21.9).zip"
+hash = "15ec4e8f8c65965d3cc0a0b481128295ed54f6bd222661934ae910287ff2a4c9"
+
+[[files]]
+file = "resources/datapack/anti ghast grief v1.1.14 (MC 1.21-1.21.9).zip"
+hash = "1e3deabc46af75dc8465907c4f7eb12060e3b23d15cab03ac7f2b99656b23f82"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/chunk_loaders/function/create_chunk_loader.mcfunction"
+hash = "16b458dfe99f4323d7c403d0effd9b4934be6481234d9429f7d2582b28404242"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/chunk_loaders/function/destroy_chunk_loader.mcfunction"
+hash = "7bd5a1ddd23dd96c67c7ab1fadcf679170f099b263e4aab4a1b1a64dec81b746"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/chunk_loaders/function/load.mcfunction"
+hash = "0346f92db248919e256cd89b8aa01bb651907aa6d30d2d247cc5e6cb2ebeec12"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/chunk_loaders/function/schedule.mcfunction"
+hash = "4521ded326f44dbfe1b3707db415245b28bbc08db9f205e2304dc42fd677cd5a"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/chunk_loaders/function/tick.mcfunction"
+hash = "9faa365bb6dc52890ce56ea21e3ffa541ac872d3475ab462b7932e26c9b0758d"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/chunk_loaders/function/try_to_create_chunk_loader.mcfunction"
+hash = "2f7c9c36a1a9b9fd59a29b8b009012db73f35042dd1880f20924fd8e3f08618e"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/chunk_loaders/function/uninstall.mcfunction"
+hash = "f33ff1dc545226d5f94348f50ea6ab1f0ca0445091ef48be9e144b3f5917b759"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/minecraft/tags/function/load.json"
+hash = "d829e7a1f454c82a77e57c81e5db67fd36ced7e1169d8885e7589f1967477846"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/vanillatweaks/advancement/chunk_loaders.json"
+hash = "d0e0193f1657ab7d0c1f1d17f97e4efa2ab9d78adc38fb22d1ee999af57e13bd"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/vanillatweaks/advancement/root.json"
+hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/data/vanillatweaks/tags/function/uninstall.json"
+hash = "cf64fc878f382394f531893c2ac5008cfd72f68d3de91fe1e9a1fe7778665cf6"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/overlay_71/data/vanillatweaks/advancement/root.json"
+hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/pack.mcmeta"
+hash = "dbd95db9aa4618de2f5c6b08b661912e626f629169478b289173e1f667a381c6"
+
+[[files]]
+file = "resources/datapack/chunk loaders v1.0.14 (MC 1.21-1.21.8)/pack.png"
+hash = "eb70325f63213f93ab156483562a18496ec57005b4cbdafd64a2ff849b81c605"
+
+[[files]]
+file = "resources/datapack/nether portal coords v1.1.13 (MC 1.21-1.21.8).zip"
+hash = "a7dbe8296018b7756d699d1a56d650baf2c5ca6c456976b98c5dd4a6c80c1549"
+
+[[files]]
+file = "resources/datapack/player head drops v1.1.13 (MC 1.21-1.21.8)/data/minecraft/loot_table/blocks/player_head.json"
+hash = "9e44fa3f5ae4ff5ede34416ea987356af33433fdd97135e2c345d9849fbf5ead"
+
+[[files]]
+file = "resources/datapack/player head drops v1.1.13 (MC 1.21-1.21.8)/data/minecraft/loot_table/entities/player.json"
+hash = "f160998e1521fd278a9cb7f04036477bcd19644ec2de16b05a4616a119727e8b"
+
+[[files]]
+file = "resources/datapack/player head drops v1.1.13 (MC 1.21-1.21.8)/data/player_heads/loot_table/entities/player.json"
+hash = "9f6b656e10bc6958c37c9e8c8bb718691df1b0850070546136bcba2f0ebb370a"
+
+[[files]]
+file = "resources/datapack/player head drops v1.1.13 (MC 1.21-1.21.8)/data/vanillatweaks/advancement/player_head_drops.json"
+hash = "740be2a9254623f858166e8dda16185fdc3ac1dada669be2c1e06e0d94e7d5cd"
+
+[[files]]
+file = "resources/datapack/player head drops v1.1.13 (MC 1.21-1.21.8)/data/vanillatweaks/advancement/root.json"
+hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
+
+[[files]]
+file = "resources/datapack/player head drops v1.1.13 (MC 1.21-1.21.8)/overlay_71/data/vanillatweaks/advancement/root.json"
+hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
+
+[[files]]
+file = "resources/datapack/player head drops v1.1.13 (MC 1.21-1.21.8)/pack.mcmeta"
+hash = "1a66821b3815a15a97495a7a2772629e38b1eb974bdbaeffd3d5f69dc2b5f41d"
+
+[[files]]
+file = "resources/datapack/player head drops v1.1.13 (MC 1.21-1.21.8)/pack.png"
+hash = "e79300aafb805857a686d5bbf9b176b63bb5dd8dd3113969b58ac23c4d208ba2"
+
+[[files]]
+file = "resources/datapack/soopy.server/data/minecraft/tags/dialog/pause_screen_additions.json"
+hash = "1118f6192a6b812fe6fc5ecb32acbce9cb230ad7f76d5ce47b5e2a3da3582cfb"
+
+[[files]]
+file = "resources/datapack/soopy.server/data/minecraft/tags/dialog/quick_actions.json"
+hash = "1118f6192a6b812fe6fc5ecb32acbce9cb230ad7f76d5ce47b5e2a3da3582cfb"
+
+[[files]]
+file = "resources/datapack/soopy.server/data/soopy.server/dialog/server_actions.json"
+hash = "741aeec89f9acdbc778ed22b6f66f20b74a679ed6d0a1c26191e776f76e88110"
+
+[[files]]
+file = "resources/datapack/soopy.server/data/soopy.server/function/restart.mcfunction"
+hash = "a7547a32a2fc301fedff5f118737ddfff94db5b1684d62f16d6ee2ca048320e1"
+
+[[files]]
+file = "resources/datapack/soopy.server/data/soopy.server/function/restart/game_update.mcfunction"
+hash = "68af18e00f10267ce0ba04f9844be58b464e3b956357b7bc4ada337b9714dcb1"
+
+[[files]]
+file = "resources/datapack/soopy.server/pack.mcmeta"
+hash = "bb8640227a287554db219f32dc0e1ff399c6ebb7b6490af0f86031381edf0271"
+
+[[files]]
+file = "resources/datapack/soopy.transfer/data/minecraft/tags/function/load.json"
+hash = "4807968d5873c09da294636743ee38b472686991dbae6636a4c6ad49d4e66ed4"
+
+[[files]]
+file = "resources/datapack/soopy.transfer/data/minecraft/tags/function/tick.json"
+hash = "064dd31472c5b35adcdc27c0f8f603bf7c5d6cc4d67573a110dbbc9a8205c0e8"
+
+[[files]]
+file = "resources/datapack/soopy.transfer/data/soopy.transfer/function/load.mcfunction"
+hash = "4421f7f90fb6471acf81a0db5cbc717587d3b4be066481a1c115058d49710422"
+
+[[files]]
+file = "resources/datapack/soopy.transfer/data/soopy.transfer/function/tick.mcfunction"
+hash = "a2f0b2fdf89a5dafc4c61077a24a52fafb6c3da1126277e85c121ff6c1d736e4"
+
+[[files]]
+file = "resources/datapack/soopy.transfer/pack.mcmeta"
+hash = "d6efe2a59f27f156128bb35482010beaa8254681240a60bf7aabc8919a6e728c"
+
+[[files]]
+file = "resources/datapack/track raw statistics v1.7.9 (MC 1.21-1.21.8).zip"
+hash = "a865304ffaacf48d1a9b0d24ab5092abf9237d8bb8f701f410efeea8a1494634"
+
+[[files]]
+file = "resources/datapack/track statistics v1.1.16 (MC 1.21-1.21.9).zip"
+hash = "559895d8b7d0b78f6e90ae3ca3537c5fbe508c508a8cc42b4fb7f5f75e226f07"
+
+[[files]]
+file = "resources/datapack/unlock all recipes v2.0.14 (MC 1.21-1.21.8).zip"
+hash = "4e1b0ade9ad48ddebfb7b9e7840f6df505e00c27b7b5f08b278749391df7ce6e"
+
+[[files]]
+file = "resources/datapack/villager death messages v1.2.15 (MC 1.21-1.21.8).zip"
+hash = "e2785a06d7d2bebcca441f619427c74ffd060ead86e0af0a0291f529e73c839e"
+
+[[files]]
+file = "resources/datapack/villager workstation highlights v1.1.13 (MC 1.21-1.21.8).zip"
+hash = "3efe7ea33d455f040a4ff8d1c38ac1968e7264b2029e1aed5142f396e79e44d8"
 
 [[files]]
 file = "servers.dat"

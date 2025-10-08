@@ -1,0 +1,1 @@
+function soopy.server:restart {reason: "Game Update", duration: "60 seconds"}
