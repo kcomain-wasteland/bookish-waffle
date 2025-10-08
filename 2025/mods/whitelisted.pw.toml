@@ -1,8 +1,8 @@
 name = "whitelisted"
-filename = "whitelisted-1.1.0-beta.1+1.21.8.jar"
+filename = "whitelisted-1.1.0-beta.3+1.21.8.jar"
 side = "server"
 
 [download]
-url = "https://patchy.soopy.moe/soopyc/whitelisted/releases/download/v1.1.0-beta.2+1.21.8/whitelisted-1.1.0-beta.2+1.21.8.jar"
+url = "https://patchy.soopy.moe/soopyc/whitelisted/releases/download/v1.1.0-beta.3+1.21.8/whitelisted-1.1.0-beta.3+1.21.8.jar"
 hash-format = "sha256"
-hash = "e76b85ba5d8f4dcf4c7a7a67ff445ca45b80cde537c9859c936251dbc75a36ff"
+hash = "4773b1b348e9297f292f1fefc3ad8cd24e37ddf70b9c89463cc6ff968e6ac07f"
