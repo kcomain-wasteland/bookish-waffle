@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/whitelisted.pw.toml"
-hash = "cbdaf655c5ad1675070ff55d95e49c2dc486fd58da8814846af0b6ea0f591b5c"
+hash = "4d7ac035bf84f2a1cb56cf64252b29fdcfc1b8d4ae9165cbdf5f2baa36fa43b9"
 metafile = true
 
 [[files]]
