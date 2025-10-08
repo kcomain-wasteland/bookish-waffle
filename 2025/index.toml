@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/otterlib.pw.toml"
-hash = "8cd9a961f2d6d5dd1ecb6d5d70b42c77d4168df70428635fc93b7dbde7e4abb3"
+hash = "68124e36e8ef53b38e446c2d8ddbbcb788dda5030361262b55b0036beeb27ba2"
 metafile = true
 
 [[files]]
