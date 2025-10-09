@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/plasmovoice/config.toml"
+hash = "715d4d44d352ba9bbaff46740365817a427404d91fecb0f8aa255f7c7462085a"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
