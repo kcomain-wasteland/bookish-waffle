@@ -1,6 +1,6 @@
 name = "Simple Resource Loader"
 filename = "simpleresourceloader-1.0.0+1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/5e65FGXQ/versions/IEbD337h/simpleresourceloader-1.0.0%2B1.21.1.jar"

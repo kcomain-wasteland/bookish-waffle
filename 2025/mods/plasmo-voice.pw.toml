@@ -1,0 +1,17 @@
+name = "Plasmo Voice"
+filename = "plasmovoice-fabric-1.21.6-2.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/MIuFIHON/plasmovoice-fabric-1.21.6-2.1.6.jar"
+hash-format = "sha512"
+hash = "5dfcf3baba7ea18aa9e67a589cb5236a8e9fc27abf76c537558cb090271003f560ca899e48a4a6f9a4f20a6d5bf0088e9cc5d066a6da433f22feb14e83d87be6"
+
+[option]
+optional = true
+default = true
+
+[update]
+[update.modrinth]
+mod-id = "1bZhdhsH"
+version = "MIuFIHON"
