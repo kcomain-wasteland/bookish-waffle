@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/plasmovoice/config.toml"
-hash = "3031e1b99a60233e6ebce8d82c9d1e89b86b598386b8a416d029f8531d36597d"
+file = "config/plasmovoice/server/config.toml"
+hash = "8f1751f1a95954dcd19889ceedc9ae5be3296931a658325e0dccbb7d5ea74556"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
