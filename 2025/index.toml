@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "50c0518919c6034e71d66f892cc861c1250324695172fdcfe84c85f7a686937f"
+hash = "d489a9676e34d9874adfeefe8e5018017ef6fcbee2984905fc375f1287da1d58"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "b7be421610494c41ac98451dccc77a58c54446d2521bef8e358d936a64d6fd0f"
+hash = "6685f10edcc37f4b78c13c08b82ab8ee0920a3b41cb832a5483682987dd1697d"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7a42ef83b689db8a756339351aeac519188c2c8bbe2784a9a17b67bcf0383e98"
+hash = "bde1e584be6e389eb05cd4c113741f50798fe70e08cfb5c8cf487db6a6559dcb"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-view.pw.toml"
-hash = "4849b100ea4b7087a2bb34f5457e26600ee1c8f9274304c5437a3739bdcdf261"
+hash = "d7ab920c1a2546045debcce9cb4f7355e52c060c9e0f6814b48d50c8b7431e88"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d67badb4e995bc340548af8cb784af656bf9ec4b56778056747b207fe521f4ae"
+hash = "fecf65fa9d0ba17366ced7706d3fdd3ba8cdef06a29243fa0f2a86d973a86d32"
 metafile = true
 
 [[files]]
