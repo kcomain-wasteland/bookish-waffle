@@ -3,6 +3,11 @@ filename = "whitelisted-1.1.0-beta.3+1.21.8.jar"
 side = "server"
 
 [download]
-url = "https://patchy.soopy.moe/soopyc/whitelisted/releases/download/v1.1.0-beta.3+1.21.8/whitelisted-1.1.0-beta.3+1.21.8.jar"
-hash-format = "sha256"
-hash = "4773b1b348e9297f292f1fefc3ad8cd24e37ddf70b9c89463cc6ff968e6ac07f"
+url = "https://cdn.modrinth.com/data/4pW34zx6/versions/6qJWJjqp/whitelisted-1.1.0-beta.3%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "de4977506a298615ca0c7b892aa5b168b9b58c8b1c5a0613466cc4c9b10845b9715b02c6440c8e7c18cc64aa1fc8ccacd65e9377d5dc82da44852672db6683c0"
+
+[update]
+[update.modrinth]
+mod-id = "4pW34zx6"
+version = "6qJWJjqp"

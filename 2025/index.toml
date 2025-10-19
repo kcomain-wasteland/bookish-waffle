@@ -46,22 +46,22 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d489a9676e34d9874adfeefe8e5018017ef6fcbee2984905fc375f1287da1d58"
+hash = "9e9cb20320818e9a3638287b58c144373d0800a04e6722f44897c6a616190805"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "41214ba30c867c0e1cff7e90d1a0fd3b0b0ae124db246fd268a4cb7e6ef5b05e"
+hash = "abf29b7b4e7deb640da4c27102efbf448803b4befb0f8078f6346ebeec354a72"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
+hash = "f4803f468da3dc0c469bed07e4fbac01377a8f0fe7646a08f92271e23aa96175"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
+hash = "dae294bc7e60c5052b3c705bc15e4b2ebc1af7465e294c4f9824a4b63719475b"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9a4134f95fe916167ac3dd6e6d4a3aa5d6c0f0930346af2d4493ad28b786f6aa"
+hash = "44efb7281748177e20ecad3994c11cfa4c148efe1feed7e42f5afa5f5da529d8"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
+hash = "18360f497689d81ce5b4a58571c099bf5a7f66e085ccd7196cd129158b328f15"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2edb9b80b26d7f7d2f3b2edc82a33838906e6be25382aeaf186fbb25dc07e4f8"
+hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/whitelisted.pw.toml"
-hash = "19c9fa56dec0401fd088fcd95f719f3b488375473b3431edcd7fe3134bdf2422"
+hash = "4100ee065beeba262903a805f73d8e91abd3fbb6e9f45c4070d3b996ca127164"
 metafile = true
 
 [[files]]
