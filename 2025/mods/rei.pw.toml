@@ -1,6 +1,10 @@
 name = "Roughly Enough Items (REI)"
 filename = "RoughlyEnoughItems-20.0.811-fabric.jar"
-side = "client"
+side = "both"
+
+[option]
+optional = true
+default = true
 
 [download]
 url = "https://cdn.modrinth.com/data/nfn13YXA/versions/hoEFy7aF/RoughlyEnoughItems-20.0.811-fabric.jar"
