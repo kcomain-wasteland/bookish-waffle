@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/banhammer/messages.json"
+hash = "b5dab8c279873b65459a9804f0bbad2c4b757ada6fba4a596a9951bc0a85e65a"
+
+[[files]]
 file = "config/plasmovoice/server/config.toml"
 hash = "8f1751f1a95954dcd19889ceedc9ae5be3296931a658325e0dccbb7d5ea74556"
 
