@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "247683aa9f7089436ae9a7755068ce77f5e754ae66b67021021dc1ff267ead7f"
+
+[[files]]
 file = "config/banhammer/messages.json"
 hash = "b5dab8c279873b65459a9804f0bbad2c4b757ada6fba4a596a9951bc0a85e65a"
 
