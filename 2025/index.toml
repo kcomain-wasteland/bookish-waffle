@@ -277,171 +277,171 @@ hash = "121b4fa5f12aef9a36418922a8be02aa715ad40347165e31dcdf293f16019519"
 metafile = true
 
 [[files]]
-file = "resources/datapack/anti creeper grief v1.1.14 (MC 1.21-1.21.9).zip"
+file = "resources/datapack/required/anti creeper grief v1.1.14 (MC 1.21-1.21.9).zip"
 hash = "decb36119e2c9b5e417efe8cd72d1405a0e35117779744aaa33634614a592512"
 
 [[files]]
-file = "resources/datapack/anti enderman grief v1.1.14 (MC 1.21-1.21.9).zip"
+file = "resources/datapack/required/anti enderman grief v1.1.14 (MC 1.21-1.21.9).zip"
 hash = "15ec4e8f8c65965d3cc0a0b481128295ed54f6bd222661934ae910287ff2a4c9"
 
 [[files]]
-file = "resources/datapack/anti ghast grief v1.1.14 (MC 1.21-1.21.9).zip"
+file = "resources/datapack/required/anti ghast grief v1.1.14 (MC 1.21-1.21.9).zip"
 hash = "1e3deabc46af75dc8465907c4f7eb12060e3b23d15cab03ac7f2b99656b23f82"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/create_chunk_loader.mcfunction"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/create_chunk_loader.mcfunction"
 hash = "16b458dfe99f4323d7c403d0effd9b4934be6481234d9429f7d2582b28404242"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/destroy_chunk_loader.mcfunction"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/destroy_chunk_loader.mcfunction"
 hash = "7bd5a1ddd23dd96c67c7ab1fadcf679170f099b263e4aab4a1b1a64dec81b746"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/load.mcfunction"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/load.mcfunction"
 hash = "0346f92db248919e256cd89b8aa01bb651907aa6d30d2d247cc5e6cb2ebeec12"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/schedule.mcfunction"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/schedule.mcfunction"
 hash = "4521ded326f44dbfe1b3707db415245b28bbc08db9f205e2304dc42fd677cd5a"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/tick.mcfunction"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/tick.mcfunction"
 hash = "9faa365bb6dc52890ce56ea21e3ffa541ac872d3475ab462b7932e26c9b0758d"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/try_to_create_chunk_loader.mcfunction"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/try_to_create_chunk_loader.mcfunction"
 hash = "2f7c9c36a1a9b9fd59a29b8b009012db73f35042dd1880f20924fd8e3f08618e"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/uninstall.mcfunction"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/uninstall.mcfunction"
 hash = "f33ff1dc545226d5f94348f50ea6ab1f0ca0445091ef48be9e144b3f5917b759"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/minecraft/tags/function/load.json"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/minecraft/tags/function/load.json"
 hash = "d829e7a1f454c82a77e57c81e5db67fd36ced7e1169d8885e7589f1967477846"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/chunk_loaders.json"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/chunk_loaders.json"
 hash = "d0e0193f1657ab7d0c1f1d17f97e4efa2ab9d78adc38fb22d1ee999af57e13bd"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/root.json"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/root.json"
 hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/vanillatweaks/tags/function/uninstall.json"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/vanillatweaks/tags/function/uninstall.json"
 hash = "cf64fc878f382394f531893c2ac5008cfd72f68d3de91fe1e9a1fe7778665cf6"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/overlay_71/data/vanillatweaks/advancement/root.json"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/overlay_71/data/vanillatweaks/advancement/root.json"
 hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/pack.mcmeta"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/pack.mcmeta"
 hash = "a48ffd8d79f2ea42dfdc8b0c3a6c8caf5f12f9bba8b5734b4a586c078d8cd28c"
 
 [[files]]
-file = "resources/datapack/chunk loaders v1.0.15 (MC 1.21-1.21.10)/pack.png"
+file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/pack.png"
 hash = "eb70325f63213f93ab156483562a18496ec57005b4cbdafd64a2ff849b81c605"
 
 [[files]]
-file = "resources/datapack/nether portal coords v1.1.14 (MC 1.21-1.21.10).zip"
+file = "resources/datapack/required/nether portal coords v1.1.14 (MC 1.21-1.21.10).zip"
 hash = "91cb0ca7a97af6abc596fa271dfd88619a1504d3056fb563cb029e4134c07902"
 
 [[files]]
-file = "resources/datapack/player head drops v1.1.14 (MC 1.21-1.21.10)/data/minecraft/loot_table/blocks/player_head.json"
+file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/minecraft/loot_table/blocks/player_head.json"
 hash = "9e44fa3f5ae4ff5ede34416ea987356af33433fdd97135e2c345d9849fbf5ead"
 
 [[files]]
-file = "resources/datapack/player head drops v1.1.14 (MC 1.21-1.21.10)/data/minecraft/loot_table/entities/player.json"
+file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/minecraft/loot_table/entities/player.json"
 hash = "f160998e1521fd278a9cb7f04036477bcd19644ec2de16b05a4616a119727e8b"
 
 [[files]]
-file = "resources/datapack/player head drops v1.1.14 (MC 1.21-1.21.10)/data/player_heads/loot_table/entities/player.json"
+file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/player_heads/loot_table/entities/player.json"
 hash = "9f6b656e10bc6958c37c9e8c8bb718691df1b0850070546136bcba2f0ebb370a"
 
 [[files]]
-file = "resources/datapack/player head drops v1.1.14 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/player_head_drops.json"
+file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/player_head_drops.json"
 hash = "740be2a9254623f858166e8dda16185fdc3ac1dada669be2c1e06e0d94e7d5cd"
 
 [[files]]
-file = "resources/datapack/player head drops v1.1.14 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/root.json"
+file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/root.json"
 hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
 
 [[files]]
-file = "resources/datapack/player head drops v1.1.14 (MC 1.21-1.21.10)/overlay_71/data/vanillatweaks/advancement/root.json"
+file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/overlay_71/data/vanillatweaks/advancement/root.json"
 hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
 
 [[files]]
-file = "resources/datapack/player head drops v1.1.14 (MC 1.21-1.21.10)/pack.mcmeta"
+file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/pack.mcmeta"
 hash = "33793ad3319f585f7c8cdf06e38bec2055df90f3c4a0173b2adb03039a407768"
 
 [[files]]
-file = "resources/datapack/player head drops v1.1.14 (MC 1.21-1.21.10)/pack.png"
+file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/pack.png"
 hash = "e79300aafb805857a686d5bbf9b176b63bb5dd8dd3113969b58ac23c4d208ba2"
 
 [[files]]
-file = "resources/datapack/soopy.server/data/minecraft/tags/dialog/pause_screen_additions.json"
+file = "resources/datapack/required/soopy.server/data/minecraft/tags/dialog/pause_screen_additions.json"
 hash = "1118f6192a6b812fe6fc5ecb32acbce9cb230ad7f76d5ce47b5e2a3da3582cfb"
 
 [[files]]
-file = "resources/datapack/soopy.server/data/minecraft/tags/dialog/quick_actions.json"
+file = "resources/datapack/required/soopy.server/data/minecraft/tags/dialog/quick_actions.json"
 hash = "1118f6192a6b812fe6fc5ecb32acbce9cb230ad7f76d5ce47b5e2a3da3582cfb"
 
 [[files]]
-file = "resources/datapack/soopy.server/data/soopy.server/dialog/server_actions.json"
+file = "resources/datapack/required/soopy.server/data/soopy.server/dialog/server_actions.json"
 hash = "741aeec89f9acdbc778ed22b6f66f20b74a679ed6d0a1c26191e776f76e88110"
 
 [[files]]
-file = "resources/datapack/soopy.server/data/soopy.server/function/restart.mcfunction"
+file = "resources/datapack/required/soopy.server/data/soopy.server/function/restart.mcfunction"
 hash = "a7547a32a2fc301fedff5f118737ddfff94db5b1684d62f16d6ee2ca048320e1"
 
 [[files]]
-file = "resources/datapack/soopy.server/data/soopy.server/function/restart/game_update.mcfunction"
+file = "resources/datapack/required/soopy.server/data/soopy.server/function/restart/game_update.mcfunction"
 hash = "68af18e00f10267ce0ba04f9844be58b464e3b956357b7bc4ada337b9714dcb1"
 
 [[files]]
-file = "resources/datapack/soopy.server/pack.mcmeta"
+file = "resources/datapack/required/soopy.server/pack.mcmeta"
 hash = "bb8640227a287554db219f32dc0e1ff399c6ebb7b6490af0f86031381edf0271"
 
 [[files]]
-file = "resources/datapack/soopy.transfer/data/minecraft/tags/function/load.json"
+file = "resources/datapack/required/soopy.transfer/data/minecraft/tags/function/load.json"
 hash = "4807968d5873c09da294636743ee38b472686991dbae6636a4c6ad49d4e66ed4"
 
 [[files]]
-file = "resources/datapack/soopy.transfer/data/minecraft/tags/function/tick.json"
+file = "resources/datapack/required/soopy.transfer/data/minecraft/tags/function/tick.json"
 hash = "064dd31472c5b35adcdc27c0f8f603bf7c5d6cc4d67573a110dbbc9a8205c0e8"
 
 [[files]]
-file = "resources/datapack/soopy.transfer/data/soopy.transfer/function/load.mcfunction"
+file = "resources/datapack/required/soopy.transfer/data/soopy.transfer/function/load.mcfunction"
 hash = "4421f7f90fb6471acf81a0db5cbc717587d3b4be066481a1c115058d49710422"
 
 [[files]]
-file = "resources/datapack/soopy.transfer/data/soopy.transfer/function/tick.mcfunction"
+file = "resources/datapack/required/soopy.transfer/data/soopy.transfer/function/tick.mcfunction"
 hash = "a2f0b2fdf89a5dafc4c61077a24a52fafb6c3da1126277e85c121ff6c1d736e4"
 
 [[files]]
-file = "resources/datapack/soopy.transfer/pack.mcmeta"
+file = "resources/datapack/required/soopy.transfer/pack.mcmeta"
 hash = "d6efe2a59f27f156128bb35482010beaa8254681240a60bf7aabc8919a6e728c"
 
 [[files]]
-file = "resources/datapack/track raw statistics v1.7.10 (MC 1.21-1.21.10).zip"
+file = "resources/datapack/required/track raw statistics v1.7.10 (MC 1.21-1.21.10).zip"
 hash = "eddbf5ea9423948683926f66373c88fb5df579e8a8d749f5ab87885f134f3f3d"
 
 [[files]]
-file = "resources/datapack/track statistics v1.1.16 (MC 1.21-1.21.9).zip"
+file = "resources/datapack/required/track statistics v1.1.16 (MC 1.21-1.21.9).zip"
 hash = "559895d8b7d0b78f6e90ae3ca3537c5fbe508c508a8cc42b4fb7f5f75e226f07"
 
 [[files]]
-file = "resources/datapack/unlock all recipes v2.0.15 (MC 1.21-1.21.10).zip"
+file = "resources/datapack/required/unlock all recipes v2.0.15 (MC 1.21-1.21.10).zip"
 hash = "832d5fb8145f6bc92c6bf1c1485adf85d556013bed8e8946463403581a4e9c80"
 
 [[files]]
-file = "resources/datapack/villager death messages v1.2.16 (MC 1.21-1.21.10).zip"
+file = "resources/datapack/required/villager death messages v1.2.16 (MC 1.21-1.21.10).zip"
 hash = "9670e35627fd4261c21b6cb3e03113075ed733193c81e269077ad7445745a17d"
 
 [[files]]
-file = "resources/datapack/villager workstation highlights v1.1.14 (MC 1.21-1.21.10).zip"
+file = "resources/datapack/required/villager workstation highlights v1.1.14 (MC 1.21-1.21.10).zip"
 hash = "79557bf0cc9851d672dcb8e83fac62563e46237a59d4ca1b08443e577c401638"
 
 [[files]]
