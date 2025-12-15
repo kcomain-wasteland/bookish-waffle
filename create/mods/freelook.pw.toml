@@ -1,0 +1,13 @@
+name = "FreeLook"
+filename = "FreeLook-forge-1.20.4-1.5.3.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6c557e4885e55791b7c9a91de84e26c088d1f23d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5270267
+project-id = 298112

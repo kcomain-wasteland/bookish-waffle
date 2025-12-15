@@ -1,0 +1,13 @@
+name = "Default-Style Christmas Pack"
+filename = "ChristmasPack_1.20.1_v2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "190031d70e102dd170b32ad612e9ac0a00b75c53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4941539
+project-id = 353232

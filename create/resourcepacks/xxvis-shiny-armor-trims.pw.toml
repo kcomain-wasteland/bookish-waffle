@@ -1,0 +1,13 @@
+name = "XXVI's Shiny Armor Trims"
+filename = "Shiny Trims v6 (Optifine).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "398a1eb5e8181caac79c446dd57971774cdec11d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4848080
+project-id = 817680

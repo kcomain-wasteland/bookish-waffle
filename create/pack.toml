@@ -1,0 +1,13 @@
+name = "meow"
+author = "none"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "beb7145113c950360e4c59a6f9dd76957a8b5a5cbdbb180bfce917f5ceeb48a8"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

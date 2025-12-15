@@ -1,0 +1,13 @@
+name = "Refined Cats"
+filename = "RefinedCats_v3.0.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0de4b7f82da11ca8f0bcb536a4d12edcb16c3789"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7230496
+project-id = 1246885

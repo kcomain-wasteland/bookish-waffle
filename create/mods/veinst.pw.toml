@@ -1,0 +1,13 @@
+name = "Vein Miner | Veinst"
+filename = "Veinst1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "389745fc8a41f82be947958058d2d20a4e5a078a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6739370
+project-id = 987541
