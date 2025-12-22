@@ -1,12 +1,12 @@
-name = "meow"
+name = "create-final"
 author = "none"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "beb7145113c950360e4c59a6f9dd76957a8b5a5cbdbb180bfce917f5ceeb48a8"
+hash = "8abe705c8caa1026ac6d9616db8a23cd35b0004ca48e4940ee75dd2da57484d8"
 
 [versions]
 forge = "47.4.10"

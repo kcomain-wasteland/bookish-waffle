@@ -401,14 +401,6 @@ file = "config/waystones-common.toml"
 hash = "4cf1d13d8827bcdce75acadb1f3ea24732fd6fa6575ec8a261a37b21c481674d"
 
 [[files]]
-file = "manifest.json"
-hash = "a4b782c05e5b1518ca06bd69e22238d0d0ed75e1272fb523eed9813d92ac30de"
-
-[[files]]
-file = "modlist.html"
-hash = "dcf1c48d50b177087cb44879b575a6970bb6c2dab1f73f634b9c328129317163"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -426,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
 metafile = true
 
 [[files]]
@@ -620,12 +617,22 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
+hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
 metafile = true
 
 [[files]]
 file = "mods/ghost.pw.toml"
 hash = "ca0ea5f384f95ded278fbc3123d075beadf88be8c1efba48d3798a26f36b9f06"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "d92834912371593543ac5c2de473e438fcf831e6e7641634c5e95918b73c211a"
 metafile = true
 
 [[files]]
@@ -706,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
 metafile = true
 
 [[files]]
