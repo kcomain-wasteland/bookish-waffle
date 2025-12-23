@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-journal.pw.toml"
-hash = "d9a66b1dbf4dd4bfd5f73821405fea08a8b6f48918d1b6d78a2b47986314969b"
+hash = "b90eab8c69d8407a934f25e991e95874ce0e36450cea0747d71eddf5d503257a"
 metafile = true
 
 [[files]]
