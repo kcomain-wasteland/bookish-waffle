@@ -72,8 +72,9 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml.bak"
+file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
@@ -131,8 +132,9 @@ hash = "3ded8f0e2b2408286789398b6a82ed97e55dd0bdec5585937c293187f133c342"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml.bak"
+file = "mods/lithium.pw.toml"
 hash = "7fc67cabd5de89ebe9d7d995cdf160ceff0572c2bef784e846675976a428c9fa"
+metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
@@ -416,7 +418,7 @@ hash = "4421f7f90fb6471acf81a0db5cbc717587d3b4be066481a1c115058d49710422"
 
 [[files]]
 file = "resources/datapack/required/soopy.transfer/data/soopy.transfer/function/tick.mcfunction"
-hash = "a2f0b2fdf89a5dafc4c61077a24a52fafb6c3da1126277e85c121ff6c1d736e4"
+hash = "16202305d35997492cf5ed72e2b7328fcae6290991c84a6a7216d8f2169d5605"
 
 [[files]]
 file = "resources/datapack/required/soopy.transfer/pack.mcmeta"
