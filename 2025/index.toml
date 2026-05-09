@@ -72,9 +72,8 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
+file = "mods/ferrite-core.pw.toml.bak"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
-metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
