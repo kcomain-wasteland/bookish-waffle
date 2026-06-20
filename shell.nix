@@ -4,5 +4,6 @@ in
   pkgs.mkShellNoCC {
     packages = with pkgs; [
       packwiz
+	  pakku
     ];
   }
