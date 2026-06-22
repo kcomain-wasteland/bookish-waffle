@@ -2371,6 +2371,77 @@
             ]
         },
         {
+            "pakku_id": "CB4ve7ypW8urVVWQ",
+            "pakku_links": [
+                "SbhP5qFi0pW8xeEK",
+                "xSBPwjxvYBMpaGTg"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "farmers-cutting-quark",
+                "modrinth": "farmers-cutting-quark"
+            },
+            "name": {
+                "curseforge": "Farmer's Cutting: Quark",
+                "modrinth": "Farmer's Cutting: Quark"
+            },
+            "id": {
+                "curseforge": "1076015",
+                "modrinth": "rH2QzhPh"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "farmers-cutting-quark-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5588/763/farmers-cutting-quark-1.0.0.jar",
+                    "id": "5588763",
+                    "parent_id": "1076015",
+                    "hashes": {
+                        "sha1": "18a1195147afd6a75b2df0a649ccadc21acbe5ab",
+                        "md5": "ef8ee4d1b60869128a2b431f16eb49dc"
+                    },
+                    "required_dependencies": [
+                        "398521",
+                        "243121"
+                    ],
+                    "size": 13532,
+                    "date_published": "2024-08-02T04:20:54.993Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "farmers-cutting-quark-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/rH2QzhPh/versions/jvk6T2SJ/farmers-cutting-quark-1.0.0.jar",
+                    "id": "jvk6T2SJ",
+                    "parent_id": "rH2QzhPh",
+                    "hashes": {
+                        "sha512": "c20ad99b527c391f0bcf7f360de7b75d511cbb617bf9b2119113252579fa316141699e6462a6a3276a0b94a600ef609cd21c965f9558438c75adecd80bbdf7af",
+                        "sha1": "c26926db64bb232b61099d270e870e518f5e7e72"
+                    },
+                    "required_dependencies": [
+                        "qnQsVE2z",
+                        "R2OftAxM"
+                    ],
+                    "size": 10068,
+                    "date_published": "2024-07-28T14:16:15.723357Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "SbhP5qFi0pW8xeEK",
             "type": "MOD",
             "side": "BOTH",
@@ -4661,6 +4732,74 @@
             ]
         },
         {
+            "pakku_id": "xSBPwjxvYBMpaGTg",
+            "pakku_links": [
+                "17PZt41odFMe3mXs"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "quark",
+                "modrinth": "quark"
+            },
+            "name": {
+                "curseforge": "Quark",
+                "modrinth": "Quark"
+            },
+            "id": {
+                "curseforge": "243121",
+                "modrinth": "qnQsVE2z"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Quark-4.0-462.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6427/817/Quark-4.0-462.jar",
+                    "id": "6427817",
+                    "parent_id": "243121",
+                    "hashes": {
+                        "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
+                        "md5": "6eef0d0ac52df0c239cb443abc137f3d"
+                    },
+                    "required_dependencies": [
+                        "968868"
+                    ],
+                    "size": 14935230,
+                    "date_published": "2025-04-16T02:35:10.557Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Quark-4.0-462.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/DijQLauD/Quark-4.0-462.jar",
+                    "id": "DijQLauD",
+                    "parent_id": "qnQsVE2z",
+                    "hashes": {
+                        "sha512": "585b182ccd51066e841141c9bc74fe8b820df86119828b7542b56771c3fcaf8bcc92f9d67f4e87736e82a45bb9166f71c015b95e230f964215290707b6475eed",
+                        "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b"
+                    },
+                    "required_dependencies": [
+                        "MVARlG2f"
+                    ],
+                    "size": 14935230,
+                    "date_published": "2025-04-16T02:35:08.960948Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7XJpWZZ3a0bec03E",
             "type": "MOD",
             "side": "SERVER",
@@ -6026,6 +6165,67 @@
                     "required_dependencies": [],
                     "size": 1105891,
                     "date_published": "2025-03-23T19:12:55.655767Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "17PZt41odFMe3mXs",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "zeta",
+                "modrinth": "zeta"
+            },
+            "name": {
+                "curseforge": "Zeta",
+                "modrinth": "Zeta"
+            },
+            "id": {
+                "curseforge": "968868",
+                "modrinth": "MVARlG2f"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Zeta-1.0-31.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7335/229/Zeta-1.0-31.jar",
+                    "id": "7335229",
+                    "parent_id": "968868",
+                    "hashes": {
+                        "sha1": "8c4a8ef0444b53ff408d5b89126285031081d92f",
+                        "md5": "98b72e20dacbdb4da4bd187f56ed4012"
+                    },
+                    "required_dependencies": [],
+                    "size": 1006518,
+                    "date_published": "2025-12-15T04:09:49.957Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Zeta-1.0-31.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/mSER3jBI/Zeta-1.0-31.jar",
+                    "id": "mSER3jBI",
+                    "parent_id": "MVARlG2f",
+                    "hashes": {
+                        "sha512": "0b14233864d8fdad148c33971731d8e9638d2cdceab8977162448598d78b74beb838913d445e065f6e0bf0d5cf36b8b843fc576ce47ab9899b3f2d7c713eefef",
+                        "sha1": "8c4a8ef0444b53ff408d5b89126285031081d92f"
+                    },
+                    "required_dependencies": [],
+                    "size": 1006518,
+                    "date_published": "2025-12-15T04:09:48.662326Z"
                 }
             ]
         },
