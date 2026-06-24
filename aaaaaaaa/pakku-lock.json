@@ -1550,6 +1550,70 @@
             ]
         },
         {
+            "pakku_id": "rKJBMfKvcjwA4HLv",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "dimensional-dungeons",
+                "modrinth": "dimensional-dungeons"
+            },
+            "name": {
+                "curseforge": "Dimensional Dungeons",
+                "modrinth": "Dimensional Dungeons"
+            },
+            "id": {
+                "curseforge": "352222",
+                "modrinth": "Q8XlZjYF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "dimdungeons-207-neoforge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7072/245/dimdungeons-207-neoforge-1.20.1.jar",
+                    "id": "7072245",
+                    "parent_id": "352222",
+                    "hashes": {
+                        "sha1": "893e35a36519a63d15e1f9664acef46118bc92ca",
+                        "md5": "55a728518e03e2a7b0844b2627639bb1"
+                    },
+                    "required_dependencies": [],
+                    "size": 2842585,
+                    "date_published": "2025-10-06T02:14:10.290Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "dimdungeons-207-neoforge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Q8XlZjYF/versions/nKQuSvjH/dimdungeons-207-neoforge-1.20.1.jar",
+                    "id": "nKQuSvjH",
+                    "parent_id": "Q8XlZjYF",
+                    "hashes": {
+                        "sha512": "b946f0fa6548705e0930f2a9132befcdf1c6a7f990f14ddf54e1c6f244be848f500f3146eae2b8c380c4557304e2acc8d6521d7cd1d942895d27caf11466e691",
+                        "sha1": "893e35a36519a63d15e1f9664acef46118bc92ca"
+                    },
+                    "required_dependencies": [],
+                    "size": 2842585,
+                    "date_published": "2026-01-13T08:44:44.129613Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "bFmLvrOgrM8HED6d",
             "type": "MOD",
             "side": "BOTH",
