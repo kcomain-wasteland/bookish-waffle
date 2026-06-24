@@ -483,6 +483,145 @@
             ]
         },
         {
+            "pakku_id": "kxZmU1mqjfY9E8E3",
+            "pakku_links": [
+                "Icbi2Iea1T33AWjd",
+                "MbkSGrtuGdazyYaD"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "botania",
+                "modrinth": "botania"
+            },
+            "name": {
+                "curseforge": "Botania",
+                "modrinth": "Botania"
+            },
+            "id": {
+                "curseforge": "225643",
+                "modrinth": "pfjLUfGv"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Botania-1.20.1-453-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8138/523/Botania-1.20.1-453-FORGE.jar",
+                    "id": "8138523",
+                    "parent_id": "225643",
+                    "hashes": {
+                        "sha1": "38e2edbf0fa91c573cbbbf3f8bb88a07e220aa8d",
+                        "md5": "f871feae99763e7754d3b81144d03120"
+                    },
+                    "required_dependencies": [
+                        "306770",
+                        "309927"
+                    ],
+                    "size": 12204268,
+                    "date_published": "2026-05-24T15:30:39.207Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Botania-1.20.1-453-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/46EOPsdW/Botania-1.20.1-453-FORGE.jar",
+                    "id": "46EOPsdW",
+                    "parent_id": "pfjLUfGv",
+                    "hashes": {
+                        "sha512": "7b961043df1d35ec6d0ff8e7b8af36b6e4a3ff8cab4be34b4d58605021536c9f78355a81da055d35391e2dceb24d7a91aa6949987a259560ee63f8a3d0051117",
+                        "sha1": "38e2edbf0fa91c573cbbbf3f8bb88a07e220aa8d"
+                    },
+                    "required_dependencies": [
+                        "vvuO3ImH",
+                        "nU0bVIaL"
+                    ],
+                    "size": 12204268,
+                    "date_published": "2026-05-24T15:30:36.847277Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "KzYuzQ5URCARpS6H",
+            "pakku_links": [
+                "kxZmU1mqjfY9E8E3"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "botania-shader-fix",
+                "modrinth": "botania-shader-fix"
+            },
+            "name": {
+                "curseforge": "Botania Shader Fix",
+                "modrinth": "Botania Shader Fix"
+            },
+            "id": {
+                "curseforge": "1525883",
+                "modrinth": "IStAB7PO"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "botaniashaderfix-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7995/539/botaniashaderfix-1.0.0.jar",
+                    "id": "7995539",
+                    "parent_id": "1525883",
+                    "hashes": {
+                        "sha1": "d804bc5d32f15808e6dc9338319c7ba3879a9bd8",
+                        "md5": "3cd652400be496425d96c15e500b73e5"
+                    },
+                    "required_dependencies": [
+                        "225643"
+                    ],
+                    "size": 7225,
+                    "date_published": "2026-04-26T16:25:26.913Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "botaniashaderfix-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IStAB7PO/versions/cNnUiBYN/botaniashaderfix-1.0.0.jar",
+                    "id": "cNnUiBYN",
+                    "parent_id": "IStAB7PO",
+                    "hashes": {
+                        "sha512": "e8c56136edc0753d2fdaab7edad75f959dcdfe794242de80dfe3bd3929fd160bb72938dea2bbfd18909a9fde5f4c6e1c493202c178e6549cb259e778f6fc0548",
+                        "sha1": "d804bc5d32f15808e6dc9338319c7ba3879a9bd8"
+                    },
+                    "required_dependencies": [
+                        "pfjLUfGv"
+                    ],
+                    "size": 7225,
+                    "date_published": "2026-04-26T16:41:33.709315Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "BrLnUgdSSxHXrVxo",
             "type": "MOD",
             "side": "BOTH",
@@ -3420,6 +3559,76 @@
                     ],
                     "size": 191607,
                     "date_published": "2026-05-27T19:37:54.345731Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "wi00EwzpJVWkTbPD",
+            "pakku_links": [
+                "kxZmU1mqjfY9E8E3",
+                "ddWZyC1pqAbiKvjn"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "just-enough-botania",
+                "modrinth": "just-enough-botania"
+            },
+            "name": {
+                "curseforge": "Just Enough Botania",
+                "modrinth": "Just Enough Botania"
+            },
+            "id": {
+                "curseforge": "1286494",
+                "modrinth": "9V5kkHHH"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Just-Enough-Botania-1.20.1-v0.2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6858/396/Just-Enough-Botania-1.20.1-v0.2.1.jar",
+                    "id": "6858396",
+                    "parent_id": "1286494",
+                    "hashes": {
+                        "sha1": "a2131501794eec36e49876e903c95d7754753060",
+                        "md5": "787468f471b18b9cefed97bba3186402"
+                    },
+                    "required_dependencies": [
+                        "225643",
+                        "238222"
+                    ],
+                    "size": 31310,
+                    "date_published": "2025-08-07T06:54:17.747Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Just-Enough-Botania-1.20.1-v0.2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9V5kkHHH/versions/TmtCd9EB/Just-Enough-Botania-1.20.1-v0.2.1.jar",
+                    "id": "TmtCd9EB",
+                    "parent_id": "9V5kkHHH",
+                    "hashes": {
+                        "sha512": "a987a691031cc0fedcd7bede5584aefa8e3546c3e031121ef1c05672f493cbe3bfe39bc462c56d9b25778bb19b650f74b6976c22b1cc8d0d3dd6a99277c3c00a",
+                        "sha1": "a2131501794eec36e49876e903c95d7754753060"
+                    },
+                    "required_dependencies": [
+                        "pfjLUfGv"
+                    ],
+                    "size": 31310,
+                    "date_published": "2025-08-07T07:04:09.859706Z"
                 }
             ]
         },
