@@ -1,0 +1,5 @@
+build:
+	pakku export
+
+clean:
+	rm -fr build
