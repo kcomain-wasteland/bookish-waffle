@@ -1,8 +1,12 @@
 {
     "name": "aaaaaaaa",
-    "version": "1.1.0",
+    "version": "0.2.0-alpha",
     "description": "yet another kitchensink tech/magic modpack",
     "author": "soopyc",
+    "overrides": [
+        "scripts",
+        "config"
+    ],
     "projects": {
         "ftb-library-forge": {
             "side": "BOTH"
@@ -10,9 +14,5 @@
         "ftb-ultimine-forge": {
             "side": "BOTH"
         }
-    },
-    "overrides": [
-        "scripts",
-        "config"
-    ]
+    }
 }

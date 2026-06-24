@@ -1,5 +1,9 @@
 build:
 	pakku export
 
+version version:
+	pakku cfg --version={{version}}
+	just build
+
 clean:
 	rm -fr build
