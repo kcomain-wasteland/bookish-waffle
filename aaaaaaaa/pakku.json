@@ -12,6 +12,7 @@
         }
     },
     "overrides": [
-        "scripts"
+        "scripts",
+        "config"
     ]
 }

@@ -1,0 +1,11 @@
+[categories]
+	automation = true
+	building = true
+	management = false
+	tools = true
+	tweaks = true
+	world = true
+	mobs = true
+	client = true
+	experimental = false
+	oddities = false
