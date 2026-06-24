@@ -3,6 +3,7 @@ build:
 
 version version:
 	pakku cfg --version={{version}}
+	-git commit pakku.json -m 'aaaaaaaa: bump version to {{version}}'
 	just build
 
 clean:
