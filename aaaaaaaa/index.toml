@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "8f2c476f0d8ab97f80e9068b5cd85b6e0261013096feba1e797c02f0d97f2657"
+hash = "1e04444d1b4e35dcdc2c8437f9869c3a90bfcb11954072e641ed5874741eb994"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "ab91ecc56cc8ab62ffc54e4d5571b129d4a17dcc3b084b6089bc018307cbe816"
+hash = "c07ce5e6e78c29b64bffc698b9cea5641819c0d67477830b3698f6ae2c1d8101"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "8d4571e084208f1ac5914d79293141615b6308f7dda215166e8c1f4aa2e3332f"
+hash = "145ff3819c1970dc2aec4cc0c2104e14dd7f63bdd737a1ff82ea81e7f1804b3c"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "ccb79452729ccb62e2a3afa88b80e834411ac1e9ed4712cbd27be6ba98d4ff79"
+hash = "dbd137b861d4c78ca28a1a95a7df72b6f3f0d9cd13a31ae6eed0986094a7924b"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/party-creepers.pw.toml"
-hash = "394bef80cbaf21dd0e4241591693278ecef9081943deb2ec5beabb4cd5258d89"
+hash = "a7e2936c081e5c2c17fe2e961325d4ff906cc4a06562bbc6d640941954ab0e95"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
+hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "1bb5b756f56879c917e3d9850aef9bd2a3cb4a2c952af86e904143cdc652dd96"
+hash = "1e29140604c9942ea3ed2fb860d9b8e9d003e48a94c817d81c8e85137d0f06c5"
 metafile = true
 
 [[files]]

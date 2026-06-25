@@ -1,6 +1,6 @@
 name = "Party Creepers"
 filename = "PartyCreepers-v20.1.0-1.20.1-Forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YiQCYsjo/versions/C9A7JIv8/PartyCreepers-v20.1.0-1.20.1-Forge.jar"
