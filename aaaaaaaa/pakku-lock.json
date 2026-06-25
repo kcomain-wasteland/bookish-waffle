@@ -2364,80 +2364,6 @@
             ]
         },
         {
-            "pakku_id": "H0NPV1NB7kAFGN2O",
-            "pakku_links": [
-                "3LfMXA6KrPj3XPSx"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "extended-bone-meal",
-                "modrinth": "extended-bone-meal"
-            },
-            "name": {
-                "curseforge": "Extended Bone Meal",
-                "modrinth": "Extended Bone Meal"
-            },
-            "id": {
-                "curseforge": "367534",
-                "modrinth": "bHkCoxMs"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "extendedbonemeal-1.20.1-3.6.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "forge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6186/46/extendedbonemeal-1.20.1-3.6.jar",
-                    "id": "6186046",
-                    "parent_id": "367534",
-                    "hashes": {
-                        "sha1": "7c3ff497fce5bd336da215e62e0bdb020980669e",
-                        "md5": "da7f7e25e766fbbc9709191380011ce1"
-                    },
-                    "required_dependencies": [
-                        "342584"
-                    ],
-                    "size": 28159,
-                    "date_published": "2025-02-12T17:29:33.153Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "extendedbonemeal-1.20.1-3.6.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/bHkCoxMs/versions/WqSEWCzI/extendedbonemeal-1.20.1-3.6.jar",
-                    "id": "WqSEWCzI",
-                    "parent_id": "bHkCoxMs",
-                    "hashes": {
-                        "sha512": "a93d76799bb065ee0c70b16145cd30c984d4eb4e1821e3ad7c98679e480510f4a8385f99ab47c19faecf454137b6071a0a786923d9b6933a775ff4ed869a2231",
-                        "sha1": "7c3ff497fce5bd336da215e62e0bdb020980669e"
-                    },
-                    "required_dependencies": [
-                        "e0M1UDsY"
-                    ],
-                    "size": 28159,
-                    "date_published": "2025-02-12T17:29:45.005427Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "p9eMTkf9g8I6eYqb",
             "type": "MOD",
             "side": "BOTH",
@@ -5472,6 +5398,44 @@
                     "required_dependencies": [],
                     "size": 35323,
                     "date_published": "2024-12-11T10:32:19.852976Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "N24SbZzNxtSxevy8",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "sneaky-tree-growing"
+            },
+            "name": {
+                "modrinth": "Sneaky Tree Growing"
+            },
+            "id": {
+                "modrinth": "KJgzbMSX"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "FORGE-sneaky_tree_growing-1.20.x-1.10.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KJgzbMSX/versions/Wwj3BzSa/FORGE-sneaky_tree_growing-1.20.x-1.10.0.jar",
+                    "id": "Wwj3BzSa",
+                    "parent_id": "KJgzbMSX",
+                    "hashes": {
+                        "sha512": "e914f8c12e8985068bc4bf02ec4fb52cabae8ce8d91f43d4dfe8cc7beb2a5990cc42479dfc543ca170e1c1a92f20b54d05912f2670c960936b478026549c63d5",
+                        "sha1": "3d909c96180a689c77414fd6f158b07c2a23c1ee"
+                    },
+                    "required_dependencies": [],
+                    "size": 345975,
+                    "date_published": "2023-07-02T15:30:22.006280Z"
                 }
             ]
         },
