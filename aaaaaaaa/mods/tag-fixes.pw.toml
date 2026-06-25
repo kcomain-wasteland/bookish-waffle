@@ -1,0 +1,13 @@
+name = "Tag Fixes"
+filename = "tagfixes-1.0.7-universal-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HTb6xGH1/versions/VY2owdvI/tagfixes-1.0.7-universal-1.20.1.jar"
+hash-format = "sha512"
+hash = "6ae1cdfced8a4d5d24e35f32afdf8944303efe6114da325e18fe4fe576ea2de22c4d6bef057c5463e8b13de8a9d325396aaa209255c5ab4c459a7c0ccb09fe5d"
+
+[update]
+[update.modrinth]
+mod-id = "HTb6xGH1"
+version = "VY2owdvI"

@@ -1,0 +1,13 @@
+name = "Botania Shader Fix"
+filename = "botaniashaderfix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IStAB7PO/versions/cNnUiBYN/botaniashaderfix-1.0.0.jar"
+hash-format = "sha512"
+hash = "e8c56136edc0753d2fdaab7edad75f959dcdfe794242de80dfe3bd3929fd160bb72938dea2bbfd18909a9fde5f4c6e1c493202c178e6549cb259e778f6fc0548"
+
+[update]
+[update.modrinth]
+mod-id = "IStAB7PO"
+version = "cNnUiBYN"

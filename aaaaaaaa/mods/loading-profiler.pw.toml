@@ -1,0 +1,13 @@
+name = "Loading Profiler"
+filename = "loadingprofiler-0.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7uT5A6Rr/versions/gmOU4kPH/loadingprofiler-0.1.11.jar"
+hash-format = "sha512"
+hash = "6036fb318159d15d898f61b25111370fcbcf6cd62518765fbcabd199def8ab412ab971affb3f55af187a5c8242d2cf12807c5a1cb98a49461a73cd2a943c9507"
+
+[update]
+[update.modrinth]
+mod-id = "7uT5A6Rr"
+version = "gmOU4kPH"

@@ -1,0 +1,13 @@
+name = "TConJEI"
+filename = "tconjei-1.20.1-1.5.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DhBtjMiv/versions/xgliPx0o/tconjei-1.20.1-1.5.5.jar"
+hash-format = "sha512"
+hash = "975add9b8094b98f165bf9b55d6cd682a1e0920b519ec431e0565978eed8bfc56d2e93d6d265e74f5844131a70f3ba96b59c4952f76c335635163d001c5bdb47"
+
+[update]
+[update.modrinth]
+mod-id = "DhBtjMiv"
+version = "xgliPx0o"

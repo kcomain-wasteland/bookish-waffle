@@ -1,0 +1,13 @@
+name = "e4mc"
+filename = "e4mc-forge-6.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/a9KhgTiJ/e4mc-forge-6.2.0.jar"
+hash-format = "sha512"
+hash = "57b2a4f93d527ecbd0692e85e830d55aad8c2e8f7ef94958b2826e68f8013b698f95e66dcdad89e9c157726ea73eba1ca8df29ca9c061840de956e34ed110861"
+
+[update]
+[update.modrinth]
+mod-id = "qANg5Jrr"
+version = "a9KhgTiJ"

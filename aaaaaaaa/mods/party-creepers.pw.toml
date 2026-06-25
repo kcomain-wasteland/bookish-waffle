@@ -1,0 +1,13 @@
+name = "Party Creepers"
+filename = "PartyCreepers-v20.1.0-1.20.1-Forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YiQCYsjo/versions/C9A7JIv8/PartyCreepers-v20.1.0-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "c32f9feb5ed580c11bca9c012ce17734244444295896c5d5eaa26d7d06fbc2937b4c6a3f1ae0269971430625dbaa1cdee399aaa837e4a6f2e383a633dcfd7542"
+
+[update]
+[update.modrinth]
+mod-id = "YiQCYsjo"
+version = "C9A7JIv8"

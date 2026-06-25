@@ -1,0 +1,13 @@
+name = "Heralds II"
+filename = "heralds_luna-2.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pJWWmNb/versions/Hikbo7gp/heralds_luna-2.5-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "0131d04f5bbd6b3ea88f2e7c2356e7014a9c435ca269242681ae295b2706fe75795c99266d0b49b673f0a071d5b92a767fe5e59412752e1ce72a089c5e98e355"
+
+[update]
+[update.modrinth]
+mod-id = "9pJWWmNb"
+version = "Hikbo7gp"

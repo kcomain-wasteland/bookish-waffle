@@ -1,0 +1,13 @@
+name = "Distant thunders"
+filename = "distantthunders-mc1.20.1-forge-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cY4e8fDt/versions/zxcEXGdt/distantthunders-mc1.20.1-forge-1.1.0.jar"
+hash-format = "sha512"
+hash = "35b60fa2c0f178352a0523be141347f29f08c57214e6a28fe3ebd52c8605daa41a49cb3c813a455812110409c1e2c9c161df5d0e58dce10e5fd5860a4ea0b3d0"
+
+[update]
+[update.modrinth]
+mod-id = "cY4e8fDt"
+version = "zxcEXGdt"

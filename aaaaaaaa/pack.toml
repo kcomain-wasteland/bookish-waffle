@@ -1,0 +1,13 @@
+name = "aaaaaaaa"
+author = "soopyc"
+version = "0.2.5-alpha"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d6895ec40aff6d0e49680032fac0dd4f3c73c99e5a081b2f9cbf1cf635c9d29"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
