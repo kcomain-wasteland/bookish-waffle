@@ -203,6 +203,67 @@
             ]
         },
         {
+            "pakku_id": "aukleOH64JTEoJaM",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "baguettelib",
+                "modrinth": "baguettelib"
+            },
+            "name": {
+                "curseforge": "BaguetteLib",
+                "modrinth": "BaguetteLib"
+            },
+            "id": {
+                "curseforge": "1264423",
+                "modrinth": "OfKzpbRU"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "baguettelib-1.20.1-Forge-1.1.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7544/807/baguettelib-1.20.1-Forge-1.1.6.jar",
+                    "id": "7544807",
+                    "parent_id": "1264423",
+                    "hashes": {
+                        "sha1": "8d3c9551bbed4c2f2e8cb2b9a10d31bad4edb52d",
+                        "md5": "f729a7d6d7b28ef14e4e8461a5396566"
+                    },
+                    "required_dependencies": [],
+                    "size": 31898,
+                    "date_published": "2026-01-29T08:20:07.737Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "baguettelib-1.20.1-Forge-1.1.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OfKzpbRU/versions/vLbvKK04/baguettelib-1.20.1-Forge-1.1.6.jar",
+                    "id": "vLbvKK04",
+                    "parent_id": "OfKzpbRU",
+                    "hashes": {
+                        "sha512": "ef0b00bfee28289e709ddc8f13eae5be0e67d95908b55e4ba2445e7282d1eb97a88ee36a3a92e3c3f15787424ae8f53bf0fab371282157195679f6349f73da31",
+                        "sha1": "8d3c9551bbed4c2f2e8cb2b9a10d31bad4edb52d"
+                    },
+                    "required_dependencies": [],
+                    "size": 31898,
+                    "date_published": "2026-02-12T14:03:37.429532Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7qownXYAJURiotqa",
             "type": "MOD",
             "side": "BOTH",
@@ -2916,6 +2977,141 @@
             ]
         },
         {
+            "pakku_id": "MvUFLaaEFS7OVMx1",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "gravestone-mod",
+                "modrinth": "gravestone-mod"
+            },
+            "name": {
+                "curseforge": "GraveStone Mod",
+                "modrinth": "GraveStone Mod"
+            },
+            "id": {
+                "curseforge": "238551",
+                "modrinth": "RYtXKJPr"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gravestone-forge-1.20.1-1.0.35.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7099/725/gravestone-forge-1.20.1-1.0.35.jar",
+                    "id": "7099725",
+                    "parent_id": "238551",
+                    "hashes": {
+                        "sha1": "a5592ab84eae317907e5003f590cc4a8ba9cbe49",
+                        "md5": "1670e9771981e234ecca27bf0106d5cd"
+                    },
+                    "required_dependencies": [],
+                    "size": 317181,
+                    "date_published": "2025-10-12T17:06:15Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "gravestone-forge-1.20.1-1.0.35.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RYtXKJPr/versions/q9kZE5Xo/gravestone-forge-1.20.1-1.0.35.jar",
+                    "id": "q9kZE5Xo",
+                    "parent_id": "RYtXKJPr",
+                    "hashes": {
+                        "sha512": "0f1b3f80ddb2fc76cfe64a52d9cc6a04b57151d592d4f85dd03f5714d6917a1e5e7c0fc1a572c9cf2e307e8008743f0a6872fd5875380995cccaccd3e5e084ab",
+                        "sha1": "9ec9da5da2a5884b6abff5f74a763a4f3e54fa38"
+                    },
+                    "required_dependencies": [],
+                    "size": 317181,
+                    "date_published": "2025-10-12T17:06:26.054748Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "G1sLGPsvFgoNOMhi",
+            "pakku_links": [
+                "MbkSGrtuGdazyYaD",
+                "MvUFLaaEFS7OVMx1",
+                "aukleOH64JTEoJaM"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "gravestone-x-curios-api-compat",
+                "modrinth": "gravestone-x-curios-api-compat"
+            },
+            "name": {
+                "curseforge": "Gravestone x Curios API Compat",
+                "modrinth": "Gravestone x Curios API Compat"
+            },
+            "id": {
+                "curseforge": "1139062",
+                "modrinth": "NaiL8bPN"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gravestonecurioscompat-1.20.1-Forge-4.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8034/266/gravestonecurioscompat-1.20.1-Forge-4.0.2.jar",
+                    "id": "8034266",
+                    "parent_id": "1139062",
+                    "hashes": {
+                        "sha1": "121710bff064bbbbe3b0bca3e58030b9254b046c",
+                        "md5": "00f4ad3c527f2d4ee90722af7b55046b"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "238551",
+                        "1264423"
+                    ],
+                    "size": 21642,
+                    "date_published": "2026-05-03T19:42:40.413Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "gravestonecurioscompat-1.20.1-Forge-4.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/NaiL8bPN/versions/hP20517C/gravestonecurioscompat-1.20.1-Forge-4.0.2.jar",
+                    "id": "hP20517C",
+                    "parent_id": "NaiL8bPN",
+                    "hashes": {
+                        "sha512": "fc3b767dcc187f2e9d98e8cbe9434d2f56b19b5f38cc6ba1a9583f6669f4ab62cd72341bc977bcaf858b9fb8893191b6f5ac33c6c89eeb5e1454dba492bd9b57",
+                        "sha1": "121710bff064bbbbe3b0bca3e58030b9254b046c"
+                    },
+                    "required_dependencies": [
+                        "OfKzpbRU",
+                        "vvuO3ImH",
+                        "RYtXKJPr"
+                    ],
+                    "size": 21642,
+                    "date_published": "2026-05-03T19:42:46.642341Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "wA1p8aDhHXaAiQwW",
             "type": "MOD",
             "side": "CLIENT",
@@ -4610,43 +4806,6 @@
                     "required_dependencies": [],
                     "size": 642732,
                     "date_published": "2026-03-08T21:08:41.512166Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "A70fgughW7zfOs72",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "perfect-graves"
-            },
-            "name": {
-                "modrinth": "Perfect Graves"
-            },
-            "id": {
-                "modrinth": "YGFlJbvf"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "perfectgraves-1.0.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/YGFlJbvf/versions/BxFOugjG/perfectgraves-1.0.2.jar",
-                    "id": "BxFOugjG",
-                    "parent_id": "YGFlJbvf",
-                    "hashes": {
-                        "sha512": "40786f7e50b5b915d5e8193555a56bd23804c64aac51ae5ea470b319c9bd4546d539311fd59687f9a07fabb3032734da655af7f8dc390cfae4af21826e4957d8",
-                        "sha1": "0fd716e48e537563d2b5730aaafd7859fb4e58dc"
-                    },
-                    "required_dependencies": [],
-                    "size": 295427,
-                    "date_published": "2026-05-03T23:09:50.880433Z"
                 }
             ]
         },
