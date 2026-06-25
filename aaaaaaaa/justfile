@@ -1,7 +1,10 @@
 build:
 	pakku export
 
-version version:
+version:
+	@jq .version pakku.json
+
+bump version:
 	pakku cfg --version={{version}}
 	-git commit pakku.json -m 'aaaaaaaa: bump version to {{version}}'
 	just build
