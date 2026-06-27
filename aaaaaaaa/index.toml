@@ -5,6 +5,16 @@ file = "config/quark-common.toml"
 hash = "c8ac33b547aa50a36fcafe4d3bb829de6df02a58a96ea63e7791265ec0025fd4"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "8e528d7f5f6d674c5988c9baab1f46d0fc29719a1350f96eab57ff90d8e81306"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "3b4408ce2399f0ce9bab2243f3255c73d26f4113bc2438974ca47267ef9df7ea"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true
@@ -120,6 +130,11 @@ hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "68a935746aad424891dcb36fa705cdafd652ea1170ecb8144b1db0c87e30297b"
 metafile = true
@@ -137,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "1334bf569d947857d5cdd95fb4fb5f52d01bc3f866b7388159b82352c6fb3cab"
+metafile = true
+
+[[files]]
+file = "mods/create-backtank-jetpack-curios-compatibility.pw.toml"
+hash = "875f6efd7946e688dc605d3795a6be253d735cfac067156d1c7d953753f4447e"
 metafile = true
 
 [[files]]
@@ -172,11 +192,6 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "e6d1f36e9e0193fe410d136e0cda8a7f6dbbc809c0644f06a601bddf5b38a395"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
