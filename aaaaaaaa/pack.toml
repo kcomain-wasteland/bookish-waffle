@@ -1,12 +1,12 @@
 name = "aaaaaaaa"
 author = "soopyc"
-version = "0.2.5-alpha"
+version = "0.2.6-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8b300a7c92432df7d76fa8ef9fdad0a117f398eb4151238b147699732c3adeeb"
+hash = "7f007cc416f75e9911fa52849fbe869b49cb6eb07b41673c7953ce4fd04383dc"
 
 [versions]
 forge = "47.4.10"

@@ -300,16 +300,6 @@ hash = "33fc21d9f84ed78be134673b1fe7f5c796bfa43cc343068f37d41461d343a94e"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "df07d5af0d287b944943b65e0b0990dc21fbbad6fee05b9d698a9f62b906ea9c"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "145ff3819c1970dc2aec4cc0c2104e14dd7f63bdd737a1ff82ea81e7f1804b3c"
-metafile = true
-
-[[files]]
 file = "mods/great-scrollable-tooltips.pw.toml"
 hash = "c11187e6e156f0be52ab5735f58041bd55af11eddc495d8039d0c38287fd2e72"
 metafile = true
@@ -737,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
 metafile = true
 
 [[files]]
