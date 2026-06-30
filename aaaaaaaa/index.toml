@@ -5,6 +5,10 @@ file = "config/quark-common.toml"
 hash = "c8ac33b547aa50a36fcafe4d3bb829de6df02a58a96ea63e7791265ec0025fd4"
 
 [[files]]
+file = "config/yigd.json"
+hash = "e76e699dfb26cdf6b039eae4000cb3380ea6981805948aa0cb3c578bd0770170"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "8e528d7f5f6d674c5988c9baab1f46d0fc29719a1350f96eab57ff90d8e81306"
 metafile = true
