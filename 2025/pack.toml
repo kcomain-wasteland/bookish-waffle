@@ -1,16 +1,16 @@
-name = "soopy-mc2025"
+name = "soopy-mc2026-experimental"
 author = "soopyc <minecraft@soopy.moe>"
-version = "1.0.0"
+version = "0.1.0-alpha.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c493198d64c70a3846dbaa52c8e6b3b300a78aacaed294897fd064b1811c1da6"
+hash = "90fd0ae25693e653e5be449a8009fad245df72b7717978e9c7ab62d0eea598a4"
 
 [versions]
-fabric = "0.17.3"
-minecraft = "1.21.9"
+fabric = "0.19.3"
+minecraft = "26.2"
 
 [options]
 datapack-folder = "./resources/datapack"

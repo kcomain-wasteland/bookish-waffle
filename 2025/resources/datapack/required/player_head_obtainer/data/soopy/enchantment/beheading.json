@@ -1,0 +1,77 @@
+{
+	"description": {
+		"translate": "enchantment.soopy.beheading",
+		"fallback": "Beheading",
+		"color": "dark_red"
+	},
+	"exclusive_set": [
+		"minecraft:mending",
+		"minecraft:looting",
+		"minecraft:unbreaking"
+	],
+	"supported_items": "#minecraft:enchantable/sharp_weapon",
+	"primary_items": [
+		"minecraft:netherite_axe",
+		"minecraft:netherite_sword"
+	],
+	"weight": 1,
+	"max_level": 3,
+	"min_cost": {
+		"base": 30,
+		"per_level_above_first": 10
+	},
+	"max_cost": {
+		"base": 0,
+		"per_level_above_first": 0
+	},
+	"anvil_cost": 40,
+	"slots": [
+		"hand"
+	],
+	"effects": {
+		"minecraft:prevent_equipment_drop": {},
+		"minecraft:hit_block": [
+			{
+				"effect": {
+					"type": "minecraft:damage_entity",
+					"damage_type": "minecraft:player_attack",
+					"min_damage": {
+						"type": "minecraft:levels_squared",
+						"added": 2
+					},
+					"max_damage": 10
+				}
+			}
+		],
+		"minecraft:post_attack": [
+			{
+				"effect": {
+					"type": "minecraft:all_of",
+					"effects": [
+						{
+							"type": "minecraft:change_item_damage",
+							"amount": {
+								"type": "minecraft:levels_squared",
+								"added": 50
+							}
+						},
+						{
+							"type": "minecraft:apply_exhaustion",
+							"amount": {
+								"type": "minecraft:exponent",
+								"base": {
+									"type": "minecraft:linear",
+									"base": 10,
+									"per_level_above_first": 2.5
+								},
+								"power": 2
+							}
+						}
+					]
+				},
+				"enchanted": "attacker",
+				"affected": "attacker"
+			}
+		]
+	}
+}

@@ -1,13 +1,13 @@
 name = "Leashable Players"
-filename = "leashmod-1.2.4+1.21.10.jar"
+filename = "leashmod-fabric-26.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/BKyMf6XK/versions/MkHABCmH/leashmod-1.2.4%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/BKyMf6XK/versions/P2V6h49H/leashmod-fabric-26.2.jar"
 hash-format = "sha512"
-hash = "e1a1928e00c65dac4bff2607ffddb44baba9f41970e71c99a5fa767f5dd303de77caea9f37594b1cb7f847d00b149ca362cb326094b1aa19b235a3908d2323b6"
+hash = "87e6a02496689510d3892cb6410534a56b4b904bcd88da1fcfc7cf1075ade41ed2c051ec69962c85c25d232f0a52baed0323f520a9d1b639f6b898954f976984"
 
 [update]
 [update.modrinth]
 mod-id = "BKyMf6XK"
-version = "MkHABCmH"
+version = "P2V6h49H"

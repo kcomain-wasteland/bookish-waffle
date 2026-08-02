@@ -1,13 +1,13 @@
 name = "whitelisted"
-filename = "whitelisted-1.1.0-beta.3+1.21.9.jar"
+filename = "whitelisted-1.1.1-beta.1+26.1-26.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/4pW34zx6/versions/xrvmCGNT/whitelisted-1.1.0-beta.3%2B1.21.9.jar"
+url = "https://cdn.modrinth.com/data/4pW34zx6/versions/GY0YphoR/whitelisted-1.1.1-beta.1%2B26.1-26.2.jar"
 hash-format = "sha512"
-hash = "e340e9d4ebf7e4aab8ef3b103b33a38185044a5bb126dd7c1423cb32de0318a7aef03777a7e75e11f7d2a1a3097d0ac5831d38ed61dc539390e2110107027225"
+hash = "13f4688d8d20b3fbbbbeaa44a0194f9d92541950776b912c572c7ce04993d9658e30f3c8fc4c78597422bd148cba99f961b3d8765d1d4e9f9449d8e9d37ace0e"
 
 [update]
 [update.modrinth]
 mod-id = "4pW34zx6"
-version = "xrvmCGNT"
+version = "GY0YphoR"

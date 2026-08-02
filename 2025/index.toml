@@ -18,367 +18,278 @@ hash = "9effdd0d1478e6f05c6ace4df130168bd354ae46e6b128604cb39ed86dd8803d"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
-metafile = true
-
-[[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "6187b9cadca608c7d1a00c9fe3a826a2dbfa20f089235147fc9bcfdd85f0c250"
+hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
 
 [[files]]
 file = "mods/banhammer.pw.toml"
-hash = "16c8f71fa6c10efaf55638055dd63543cc20337bb08980446d6f3b901ff955a2"
+hash = "d1d6be8728a11f188b84d467871634c85d815ba442b9732f13f0389d61db82bd"
 metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "24737d4ec343e590df0fb597f52bd792557300b659b828492bfd51d63c1fe52d"
+hash = "ff2f4fbdd28753bcc8e95a886a355e14b1f474f653e92a0ddc4e615b3aa870c5"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "e02c60e3243dde712fcdc279f0ee21d31f530d58f11402c0fcb082bb429e339d"
+hash = "8c506a09d2baf1b2036ff874e30999b499f0efa709588454a33af7293f7c9dd0"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
+hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0587f85e872d7f629f61c619963bb86ec1ea4d79761b4a61e3ea7bf4dde17f84"
+hash = "8b3bbd261c8e3692775873b9c470cb6f7c9a21d96a3eac7a3e7ff7bc8b39ba32"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "edcb03314b710a4a3c0b3381c6b306e0020586a0ed357735b4043a83a5d5c2b2"
+hash = "1fb9d2c7c2cc93fc035b81b3c28630a62535c03a7ceb74abd2812cef53cdac11"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5443c56a46d7fca84a1f96dc58315951a24cf8954f059aa35f213f28214d468d"
+hash = "ef9b3d887d5b2b31809fda35b2bfa4d68346e4491d4b52128358c2ed77741b89"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
+hash = "dc5490cc1a9231b0d32ec3e72f9d34279fc1d1ff6fb5a7d288b1f36faec0a6a0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
-metafile = true
-
-[[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "2b5a8f174132f85dd51d1a8295c8d60f7e5087a8879a10dfffa7b51bc47d1e65"
-metafile = true
-
-[[files]]
-file = "mods/gamma-utils.pw.toml"
-hash = "88164a8cb5574252a7acb82fe650c096b272f7912f00cd91c9d1dcc2a18549fa"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "cf2220acf2150dd1bd105c354ce93eeac513fd358e05105826550d73a5425afc"
+hash = "4558d459a64d360ef8954016a272f690b45e74fe8f078388a5a6329e5fa973f6"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ae1d7930d8eaf0adb7988d5ac24442551e33dae084b5ed41c8d2b959d3ea3d53"
+hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
+hash = "56416a27ba870a3e5e7cae3f87c2bd08fa79e942e9f6e9f90bfcb0f0959dbb49"
 metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "ecac873f5370aa7130e4e4960b5e3a0c8b42ed4bbc4f6145bddbf8192592787e"
+hash = "d834fa2fe24acc1b76b4ffa1cce5aa4eeb15e3ca050fa4187a85a2fa69fec0fd"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
 metafile = true
 
 [[files]]
 file = "mods/leashable-players.pw.toml"
-hash = "d42f52f3fa98e7bcd85d5740db0ae2cdae0826f1c94db0d060d9c70584b071eb"
+hash = "6c1f70a308228cb4ab2f51120a588fdb5b6df9425a71419dbe2187aac7eb65df"
 metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "064eb3c6724d174083c891f564a026cba6eaee6ed22a0c5e8e496b96a56399fa"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "3ded8f0e2b2408286789398b6a82ed97e55dd0bdec5585937c293187f133c342"
+hash = "541e9540163d37863f9a2f0660823d4cb15a7de001886d82960803a57e485024"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7fc67cabd5de89ebe9d7d995cdf160ceff0572c2bef784e846675976a428c9fa"
+hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
 metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "78eb7a4883effdbab78ff513fba684e62783bad2ef54b1aeef0fe584af490c67"
+hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "204a4b3b041fad4bb4dc543c74d540fcf239710494d2130cebe700bf1d8a7805"
+hash = "1049850c9b377660d7f4be73ea81d04cd5a4db536b296835c30257fa73a233e4"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e37b46af7cfa8f24e9895c37789b43d80d8abe519becf4f08d9e1ea1529fc126"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
-metafile = true
-
-[[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "478cd4b2fec408c22999469637c2c6ff341ca5525fee24b765c116bd38c908ea"
-metafile = true
-
-[[files]]
-file = "mods/otterlib.pw.toml"
-hash = "4724f1dbc3f5a5c4ba208a48d0d552e2d00c5662050ec6965e2726aedf842ae3"
+hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
 metafile = true
 
 [[files]]
 file = "mods/ouch.pw.toml"
-hash = "2d6be8579ec5eaf48149d29ed1cb7d33847169b6734468931ede69d3c88f65c8"
+hash = "c6fe81c21860df68abf2c903cf3cfe68ec59775c8c7e028291e3568424f18e87"
 metafile = true
 
 [[files]]
 file = "mods/ping-view.pw.toml"
-hash = "d7ab920c1a2546045debcce9cb4f7355e52c060c9e0f6814b48d50c8b7431e88"
+hash = "8b4bed2afc433588cfd479236120575d61e55e909f8104af89c7011419eb09ca"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
-metafile = true
-
-[[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "540f934ca03c8468000ce08ca9c7b9093ffce23cc489a9f7385dd61198cb3daf"
+hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "2aa6358ef77e0ccc74c8fba18b00a95ccf7b3dc88d2bd632d5983d315da843a0"
-metafile = true
-
-[[files]]
-file = "mods/pv-addon-groups.pw.toml"
-hash = "7a51b041979e7584c922ae8aefdb6de7b1a4d3ac443d16d594a4508ff6ac41a0"
-metafile = true
-
-[[files]]
-file = "mods/pv-addon-soundphysics.pw.toml"
-hash = "0387709e57bdf06b91e6cace835c3c9386288d614e1fcf769d6d3165ca19394a"
+hash = "e76a11a006d2dfe9ac7465254215b665e55245dad04b831be256221b360694c7"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1600b1e64b297d68bafb4f5e5eeef08117645ac24922696da10c711ae587c06b"
+hash = "a4c435e9a1f73fc2bc34b144e582c2e019d0a3eec99925ddd2aaae727370ea76"
 metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "42a73228a2e7ddd0a2ebba1e2a03dec5dbf4605854ec89c05f7e1374baffeae5"
+hash = "c64ffa1cfce64e959e4f0ca90823f4bf0d1b94fcba5e2fdb413fed78447d7dcd"
 metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "8cb939251868d3bbbb10e822fc2b0e5c28fbca7588833984914f9eb2ad956328"
-metafile = true
-
-[[files]]
-file = "mods/silk.pw.toml"
-hash = "493a76add332abb0dfa23004300ea2ae77a8448960f603519c1db5ab4d769413"
+hash = "013c8d614115cd07c563eb61ecd5c3ad6902f0b1353f61810d612800e2c0ae12"
 metafile = true
 
 [[files]]
 file = "mods/simple-resource-loader.pw.toml"
-hash = "b219231cf24298769cb8edafa2456f9ce8699492dbfef1fa4b9b5ca44c33775e"
-metafile = true
-
-[[files]]
-file = "mods/sit!.pw.toml"
-hash = "76e7b60a422b08aae881a2872b1ecbdf7825e28a47f7335fa550d555df91b6f1"
+hash = "f8f5a13a845c5c8bbaf4abbdee49dccccb37d988c0d36445fe4585af285bf1b7"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4f57108f9e1c6281cfdaf3812e6bc2a2f16609a845c9912218ada90b1603e1b3"
+hash = "23bd2f19c11a1b0b2870dafd6d5321af3549b22e84149bfd6ff3ff49af388788"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
+hash = "4651334ca774c5ab2429135327e8fee5f9264f46828397691c3b9af94da9af87"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "647399d8de7f091936b1d247201ed278245fe39c5f4ac0ed5314c59c933330da"
+hash = "13e9d8a89ecb16e97ee7028676aea082761553a15be29a84d5b052c2b931a661"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
+hash = "c7b6e4a7666e9e64a70df0b550db2e25f7150d4c1c2c2e79e81dfbc036ce3a25"
 metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "f72a60d4c8886759be05c4311eb5c9bf915d9d760ef46dcefab10c03459fa23c"
+hash = "1477c5f03e64679f3c99456a4bb0af33f708f481747ccf2b8d9bcadbace1d9ce"
 metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "ed9329edc09aae7041d14e6f68563b9235a10163e4fc9e4e31d5a2d81883845e"
+hash = "f969f99ffcf07344c72837e095a9101ccfe75e13903610787ef0c8c22c6c047e"
 metafile = true
 
 [[files]]
 file = "mods/whitelisted.pw.toml"
-hash = "0ddd8e26290e681798f6998cbbaef853a846f7be7581f05902c0ec270f5d3017"
+hash = "43258c83e6f3ad4d4a597ee0e2ca6270ec5e2dd4539c2ddbe0a2e59fac2b3062"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a7d0bbc50957cfb31069dc6ae4ede843f64fa40a34613986bc7adbb856ffb71d"
+hash = "bb2e5cb1f9aa2fbd83c61e4e21c0335904604eb1b3e33e8818ea240c4e20d337"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "121b4fa5f12aef9a36418922a8be02aa715ad40347165e31dcdf293f16019519"
+hash = "0639f42b7cae5b379ae8c1471780f24eca78e2330c8fc4823bcb3641a30c1757"
 metafile = true
 
 [[files]]
-file = "resources/datapack/required/anti creeper grief v1.1.14 (MC 1.21-1.21.9).zip"
-hash = "decb36119e2c9b5e417efe8cd72d1405a0e35117779744aaa33634614a592512"
+file = "mods/yacl.pw.toml"
+hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
+metafile = true
 
 [[files]]
-file = "resources/datapack/required/anti enderman grief v1.1.14 (MC 1.21-1.21.9).zip"
-hash = "15ec4e8f8c65965d3cc0a0b481128295ed54f6bd222661934ae910287ff2a4c9"
+file = "mods/zoomify.pw.toml"
+hash = "393c8e4dc6e15eecc32e152d835cd8f3dce96b40b5984ca00b6e0142ede7396f"
+metafile = true
 
 [[files]]
-file = "resources/datapack/required/anti ghast grief v1.1.14 (MC 1.21-1.21.9).zip"
-hash = "1e3deabc46af75dc8465907c4f7eb12060e3b23d15cab03ac7f2b99656b23f82"
+file = "resources/datapack/required/anti creeper grief v1.1.17 (MC 26.2).zip"
+hash = "db92565883fd13a88bce586c2f82ea6cfa4a1afdcc35229aa0d83ced0fa8376a"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/create_chunk_loader.mcfunction"
-hash = "16b458dfe99f4323d7c403d0effd9b4934be6481234d9429f7d2582b28404242"
+file = "resources/datapack/required/anti enderman grief v1.1.17 (MC 26.2).zip"
+hash = "f8c39b0ea1147a24f61c7945612ce9332303606ebc5157d4211c149a85ccb0ad"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/destroy_chunk_loader.mcfunction"
-hash = "7bd5a1ddd23dd96c67c7ab1fadcf679170f099b263e4aab4a1b1a64dec81b746"
+file = "resources/datapack/required/anti ghast grief v1.1.17 (MC 26.2).zip"
+hash = "a0133a3fe4ec6b28946f7666fa07acc7a84686c1d0c0c0eea0502aaf840142a6"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/load.mcfunction"
-hash = "0346f92db248919e256cd89b8aa01bb651907aa6d30d2d247cc5e6cb2ebeec12"
+file = "resources/datapack/required/credits.txt"
+hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/schedule.mcfunction"
-hash = "4521ded326f44dbfe1b3707db415245b28bbc08db9f205e2304dc42fd677cd5a"
+file = "resources/datapack/required/nether portal coords v1.1.17 (MC 26.2).zip"
+hash = "84a657384ba0a49c1cc4e21be75a9241668cca55efe061b236a21a4efd80d13c"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/tick.mcfunction"
-hash = "9faa365bb6dc52890ce56ea21e3ffa541ac872d3475ab462b7932e26c9b0758d"
+file = "resources/datapack/required/player_head_obtainer/credits.txt"
+hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/try_to_create_chunk_loader.mcfunction"
-hash = "2f7c9c36a1a9b9fd59a29b8b009012db73f35042dd1880f20924fd8e3f08618e"
+file = "resources/datapack/required/player_head_obtainer/data/minecraft/loot_table/entities/player.json"
+hash = "25a3a3cc65803bcba7e11ebcbbd42dcc99128f5d57b7032d472fdc4541b2313f"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/chunk_loaders/function/uninstall.mcfunction"
-hash = "f33ff1dc545226d5f94348f50ea6ab1f0ca0445091ef48be9e144b3f5917b759"
+file = "resources/datapack/required/player_head_obtainer/data/soopy/enchantment/beheading.json"
+hash = "214e3716fc9b8a6a457dadcca15b6278cd7dc5ab4ddd319042d34b01f0f90620"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/minecraft/tags/function/load.json"
-hash = "d829e7a1f454c82a77e57c81e5db67fd36ced7e1169d8885e7589f1967477846"
+file = "resources/datapack/required/player_head_obtainer/data/soopy/function/testitem.mcfunction"
+hash = "b62af9220bb4181ef827595aaa2f37c0e7b418677973031db3168d303fe3308b"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/chunk_loaders.json"
-hash = "d0e0193f1657ab7d0c1f1d17f97e4efa2ab9d78adc38fb22d1ee999af57e13bd"
+file = "resources/datapack/required/player_head_obtainer/data/soopy/loot_table/playerhead_vtweaks.json"
+hash = "ae68ae3e82e68376a9b00b6912805818dc80244351acb9b4f050505dbf005b09"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/root.json"
-hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
+file = "resources/datapack/required/player_head_obtainer/data/soopy/recipe/beheading_lv1.json"
+hash = "9eae28554658bf588cb1f1bec1b83eb28818826fbce95a9a94d8d16adcab9fa1"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/data/vanillatweaks/tags/function/uninstall.json"
-hash = "cf64fc878f382394f531893c2ac5008cfd72f68d3de91fe1e9a1fe7778665cf6"
+file = "resources/datapack/required/player_head_obtainer/data/soopy/recipe/beheading_lv2.json"
+hash = "476351528337da81ff9d913786edc8550100fff5c75547eab4b6992aea3c2f2d"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/overlay_71/data/vanillatweaks/advancement/root.json"
-hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
+file = "resources/datapack/required/player_head_obtainer/data/soopy/recipe/beheading_lv3.json"
+hash = "b30f24db0e47faa8ef3f75d1d0b707a107ae7fd9dddc20d2d995c049f47d89ab"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/pack.mcmeta"
-hash = "a48ffd8d79f2ea42dfdc8b0c3a6c8caf5f12f9bba8b5734b4a586c078d8cd28c"
+file = "resources/datapack/required/player_head_obtainer/pack.mcmeta"
+hash = "4db70b0ad7328ad5a8485ed002096d6cf117d28d5de226ca107bb7466c4005b9"
 
 [[files]]
-file = "resources/datapack/required/chunk loaders v1.0.15 (MC 1.21-1.21.10)/pack.png"
-hash = "eb70325f63213f93ab156483562a18496ec57005b4cbdafd64a2ff849b81c605"
-
-[[files]]
-file = "resources/datapack/required/nether portal coords v1.1.14 (MC 1.21-1.21.10).zip"
-hash = "91cb0ca7a97af6abc596fa271dfd88619a1504d3056fb563cb029e4134c07902"
-
-[[files]]
-file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/minecraft/loot_table/blocks/player_head.json"
-hash = "9e44fa3f5ae4ff5ede34416ea987356af33433fdd97135e2c345d9849fbf5ead"
-
-[[files]]
-file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/minecraft/loot_table/entities/player.json"
-hash = "f160998e1521fd278a9cb7f04036477bcd19644ec2de16b05a4616a119727e8b"
-
-[[files]]
-file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/player_heads/loot_table/entities/player.json"
-hash = "9f6b656e10bc6958c37c9e8c8bb718691df1b0850070546136bcba2f0ebb370a"
-
-[[files]]
-file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/player_head_drops.json"
-hash = "740be2a9254623f858166e8dda16185fdc3ac1dada669be2c1e06e0d94e7d5cd"
-
-[[files]]
-file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/data/vanillatweaks/advancement/root.json"
-hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
-
-[[files]]
-file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/overlay_71/data/vanillatweaks/advancement/root.json"
-hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
-
-[[files]]
-file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/pack.mcmeta"
-hash = "33793ad3319f585f7c8cdf06e38bec2055df90f3c4a0173b2adb03039a407768"
-
-[[files]]
-file = "resources/datapack/required/player head drops v1.1.14 (MC 1.21-1.21.10)/pack.png"
-hash = "e79300aafb805857a686d5bbf9b176b63bb5dd8dd3113969b58ac23c4d208ba2"
+file = "resources/datapack/required/real time clock v1.1.17 (MC 26.2).zip"
+hash = "419d7ca031228a510962af8143a805597b0d79d44d503dca0cbe1355b1ada7cd"
 
 [[files]]
 file = "resources/datapack/required/soopy.server/data/minecraft/tags/dialog/pause_screen_additions.json"
@@ -425,24 +336,24 @@ file = "resources/datapack/required/soopy.transfer/pack.mcmeta"
 hash = "d6efe2a59f27f156128bb35482010beaa8254681240a60bf7aabc8919a6e728c"
 
 [[files]]
-file = "resources/datapack/required/track raw statistics v1.7.10 (MC 1.21-1.21.10).zip"
-hash = "eddbf5ea9423948683926f66373c88fb5df579e8a8d749f5ab87885f134f3f3d"
+file = "resources/datapack/required/track raw statistics v1.7.13 (MC 26.2).zip"
+hash = "dd8175595855497bc2332752289d3828a40f0b9a09f70c5d741854896950b67c"
 
 [[files]]
-file = "resources/datapack/required/track statistics v1.1.16 (MC 1.21-1.21.9).zip"
-hash = "559895d8b7d0b78f6e90ae3ca3537c5fbe508c508a8cc42b4fb7f5f75e226f07"
+file = "resources/datapack/required/track statistics v1.1.19 (MC 26.2).zip"
+hash = "c1534b02b23c054a28008fa2fd80fe6df0d0e4b87b29cc3d537703b95dc3f55d"
 
 [[files]]
-file = "resources/datapack/required/unlock all recipes v2.0.15 (MC 1.21-1.21.10).zip"
-hash = "832d5fb8145f6bc92c6bf1c1485adf85d556013bed8e8946463403581a4e9c80"
+file = "resources/datapack/required/unlock all recipes v2.0.18 (MC 26.2).zip"
+hash = "f8b7ce959caa153ccc12d973754ee3c0bf1fdb781383b21aeddb914d3dec8f7d"
 
 [[files]]
-file = "resources/datapack/required/villager death messages v1.2.16 (MC 1.21-1.21.10).zip"
-hash = "9670e35627fd4261c21b6cb3e03113075ed733193c81e269077ad7445745a17d"
+file = "resources/datapack/required/villager death messages v1.2.19 (MC 26.2).zip"
+hash = "8c93dd4a7f245ad3f527311263f9c50c3681e622de68f3b2a19ed2b537824f90"
 
 [[files]]
-file = "resources/datapack/required/villager workstation highlights v1.1.14 (MC 1.21-1.21.10).zip"
-hash = "79557bf0cc9851d672dcb8e83fac62563e46237a59d4ca1b08443e577c401638"
+file = "resources/datapack/required/villager workstation highlights v1.1.17 (MC 26.2).zip"
+hash = "ddaaf6a3d6cf2ec4c9d1532ccd823941d2d29807aae86ec14f763ba77712f7b3"
 
 [[files]]
 file = "servers.dat"
