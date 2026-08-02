@@ -199,12 +199,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d547f22c378e1b2d3bf84ce4975c9d3b9f0626c8eafc9ea05b7167f18ebee3d2"
+hash = "bb2e5cb1f9aa2fbd83c61e4e21c0335904604eb1b3e33e8818ea240c4e20d337"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "817c6920319ead7093fce90e1e3fd6f9a4241fa31554f260158306614e344bab"
+hash = "0639f42b7cae5b379ae8c1471780f24eca78e2330c8fc4823bcb3641a30c1757"
 metafile = true
 
 [[files]]
@@ -228,6 +228,10 @@ hash = "f8c39b0ea1147a24f61c7945612ce9332303606ebc5157d4211c149a85ccb0ad"
 [[files]]
 file = "resources/datapack/required/anti ghast grief v1.1.17 (MC 26.2).zip"
 hash = "a0133a3fe4ec6b28946f7666fa07acc7a84686c1d0c0c0eea0502aaf840142a6"
+
+[[files]]
+file = "resources/datapack/required/credits.txt"
+hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
 
 [[files]]
 file = "resources/datapack/required/nether portal coords v1.1.17 (MC 26.2).zip"
