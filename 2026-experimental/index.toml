@@ -38,6 +38,11 @@ hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "8b3bbd261c8e3692775873b9c470cb6f7c9a21d96a3eac7a3e7ff7bc8b39ba32"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "1fb9d2c7c2cc93fc035b81b3c28630a62535c03a7ceb74abd2812cef53cdac11"
 metafile = true
@@ -185,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c7b6e4a7666e9e64a70df0b550db2e25f7150d4c1c2c2e79e81dfbc036ce3a25"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "1477c5f03e64679f3c99456a4bb0af33f708f481747ccf2b8d9bcadbace1d9ce"
 metafile = true
 
 [[files]]
