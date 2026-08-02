@@ -4,6 +4,11 @@
 		"fallback": "Beheading",
 		"color": "dark_red"
 	},
+	"exclusive_set": [
+		"minecraft:mending",
+		"minecraft:looting",
+		"minecraft:unbreaking"
+	],
 	"supported_items": "#minecraft:enchantable/sharp_weapon",
 	"primary_items": [
 		"minecraft:netherite_axe",
