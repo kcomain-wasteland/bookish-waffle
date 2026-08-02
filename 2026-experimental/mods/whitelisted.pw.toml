@@ -1,0 +1,13 @@
+name = "whitelisted"
+filename = "whitelisted-1.1.1-beta.1+26.1-26.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4pW34zx6/versions/GY0YphoR/whitelisted-1.1.1-beta.1%2B26.1-26.2.jar"
+hash-format = "sha512"
+hash = "13f4688d8d20b3fbbbbeaa44a0194f9d92541950776b912c572c7ce04993d9658e30f3c8fc4c78597422bd148cba99f961b3d8765d1d4e9f9449d8e9d37ace0e"
+
+[update]
+[update.modrinth]
+mod-id = "4pW34zx6"
+version = "GY0YphoR"

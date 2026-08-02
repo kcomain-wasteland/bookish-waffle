@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "beheading_enchant_book",
+	"category": "equipment",
+	"pattern": [
+		"BBB",
+		"BLB",
+		"OBO"
+	],
+	"key": {
+		"L": "minecraft:enchanted_book",
+		"O": "minecraft:crying_obsidian",
+		"B": "minecraft:netherite_block"
+	},
+	"result": {
+		"id": "minecraft:enchanted_book",
+		"components": {
+			"minecraft:enchantments": {
+				"soopy:beheading": 3
+			}
+		}
+	}
+}

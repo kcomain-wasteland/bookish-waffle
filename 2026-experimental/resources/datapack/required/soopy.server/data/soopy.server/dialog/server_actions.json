@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:multi_action",
+	"title": {
+		"translate": "menu.quick_actions.title"
+	},
+	"columns": 1,
+	"actions": [
+		{
+			"label": "Open Server Website",
+			"action": {
+				"type": "minecraft:open_url",
+				"url": "https://mc.soopy.moe"
+			}
+		},
+		{
+			"label": {
+				"text": "Warp to ",
+				"extra": [
+					{
+						"text": "Creative Server",
+						"color": "aqua"
+					}
+				]
+			},
+			"action": {
+				"type": "run_command",
+				"command": "trigger soopy.transfer"
+			}
+		}
+	]
+}

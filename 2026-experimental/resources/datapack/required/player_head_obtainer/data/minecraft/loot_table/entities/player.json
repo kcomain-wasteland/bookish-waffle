@@ -1,0 +1,33 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"value": "soopy:playerhead_vtweaks",
+					"conditions": [
+						{
+							"condition": "minecraft:random_chance_with_enchanted_bonus",
+							"unenchanted_chance": 0,
+							"enchanted_chance": {
+								"type": "minecraft:clamped",
+								"value": {
+									"type": "minecraft:linear",
+									"base": 0.016666,
+									"per_level_above_first": 0.016666
+								},
+								"min": 0,
+								"max": 0.05
+							},
+							"enchantment": "soopy:beheading"
+						}
+					]
+				}
+			],
+			"functions": [],
+			"conditions": []
+		}
+	],
+	"functions": []
+}

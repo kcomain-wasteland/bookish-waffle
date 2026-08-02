@@ -1,0 +1,13 @@
+name = "Ouch!"
+filename = "ouch-1.9.0+26.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nbxqFJCy/versions/qq3Y1YMb/ouch-1.9.0%2B26.2.jar"
+hash-format = "sha512"
+hash = "2ccdda2686c6cb823619916c9fc47cbd142be71ed58f23053da6ce26414dd5aefceff6dad913c0eb2f6ce205f87f541c72dcf46dd0ba56e6d2a7304e01485d49"
+
+[update]
+[update.modrinth]
+mod-id = "nbxqFJCy"
+version = "qq3Y1YMb"
